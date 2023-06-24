@@ -1,0 +1,5349 @@
+what is the figure number?</s>
+what is the name of the university mentioned?</s>
+what is the name of the company?</s>
+who is the sender of this letter?</s>
+who is the addressee of memorandum?</s>
+what is the heading of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+when is the lunch?</s>
+what is the total budget?</s>
+what is the designation of dr. h. h.m.?</s>
+what is the second title in the document?</s>
+what is the second title in the document?</s>
+what is the page no mentioned in this document?</s>
+when is the lunch?</s>
+what is the page no mentioned in this document?</s>
+in which year the financial year?</s>
+in which year the financial year?</s>
+what is the title of the document?</s>
+how many no. mr. c. c.s. c. c. c. b.
+what is the title of the document?</s>
+what is the company name?</s>
+what is the percentage of current year?</s>
+when is the lunch?</s>
+what is the title of the document?</s>
+what is the percentage of current year?</s>
+what is the percentage of current year?</s>
+what is the percentage?</s>
+what is the percentage?</s>
+what is the page number?</s>
+what is the name of the company?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the name of person given in the document?</s>
+what is the no. of birth of s. as mentioned in the year?</s>
+what is the amount of birth of johnson & johnson as mentioned in the given page?</s>
+how much % of revision?</s>
+what is the no. of birth of s. b.03.?</s>
+what is the page number?</s>
+what is the company name?</s>
+what is the title of the graph?</s>
+what is the status?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the email id?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the total amount?</s>
+what is the grant amount?</s>
+what is the page number?</s>
+what is the title in the document?</s>
+what is the page number?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the source?</s>
+what is the issued date of this document?</s>
+how much % of how much % of revision?</s>
+what is the source?</s>
+what is the page number?</s>
+what is the name of the foundation mentioned in the given page?</s>
+who is the supplier?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the budget estimate for men?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the budget estimate for men?</s>
+what is plotted in the x-axis?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+which company is this?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the document title?</s>
+what type of documentation is this?</s>
+what is the male rjr?</s>
+what is the male rjr?</s>
+what analysis is this?</s>
+what is the heading of the document?</s>
+what is plotted in the document?</s>
+what is the male rjr?</s>
+what is the first title in the document?</s>
+who wrote this document?</s>
+who signed the document?</s>
+how many men are there?</s>
+who wrote this document?</s>
+what is the meeting about?</s>
+to whom is this letter addressed to?</s>
+who wrote this letter?</s>
+what is the title of the document?</s>
+who wrote this letter?</s>
+who is the author?</s>
+what is the page number?</s>
+what is the telephone number?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what time is the strategic publications development meeting held?</s>
+who is the editor?</s>
+what is the publication date mentioned in the document?</s>
+what is the expiration date?</s>
+what is the first title in the given page?</s>
+what is the page number?</s>
+what is the title in the document?</s>
+what is the title of the document?</s>
+what is the date mentioned in the given page?</s>
+what is the title of the document?</s>
+what is the budget for the year 2011?</s>
+who is the author?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+who is the author?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the subject?</s>
+what is the product name?</s>
+what is the document title?</s>
+what is the name?</s>
+what is the delivery date?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the program name?</s>
+what is the date mentioned?</s>
+what is plotted in the x-axis?</s>
+what is the title of the document?</s>
+what is the value of sodium in 1969?</s>
+what is the date mentioned?</s>
+what is the name of the company?</s>
+what is the value of potassium mg./100g.) for 1976?</s>
+mention the title of the document?</s>
+what is the order no.?</s>
+what is the title of the form?</s>
+what is the title of the document?</s>
+what is the second title in this document?</s>
+what is the name mentioned in the form?</s>
+what is the heading of the document?</s>
+what is the phone number?</s>
+what is the title of the document?</s>
+what is the date mentioned?</s>
+what is the value of potassium mg./100g.) for sample?</s>
+what is the document title?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+where is the meeting held?</s>
+what is the value of potassium mg./100g.) for sample?</s>
+what is the name of tobacco company?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+who wrote this document?</s>
+to whom is this letter addressed to?</s>
+by whom is this letter?</s>
+what time is the lunch?</s>
+what are the document about?</s>
+who has signed the document?</s>
+what is the title of the document?</s>
+by whom was this letter?</s>
+what is the title of the document?</s>
+to whom?</s>
+what is the title of the document?</s>
+what is the name of company?</s>
+who has signed the document?</s>
+what is the date mentioned in the document?</s>
+what is the name?</s>
+what type?</s>
+when is the document dated?</s>
+what is the heading of the document?</s>
+what is the page number?</s>
+what is the subject?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name of the university at the top of the page?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the name of the department mentioned?</s>
+what is the title of the document?</s>
+what is the heading of the table?</s>
+what is the company name?</s>
+what is the quantity for winston?</s>
+what is the document title?</s>
+what is the date mentioned?</s>
+what is the "total" value"?</s>
+what is the salary?</s>
+what is the document title?</s>
+what is the brand?</s>
+what is the page number?</s>
+what is the salary?</s>
+what is the page number?</s>
+what is the name of company?</s>
+what is the issued date of the document?</s>
+what is the name of the author?</s>
+what is the name of the author?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the title?</s>
+what is the percentage of rjr)?</s>
+what is the percentage of rjr)?</s>
+what is the brand?</s>
+what is the first title in the document?</s>
+what is the name of the program?</s>
+what is the value of "total"?</s>
+what is the % of revision?</s>
+what is the name mentioned?</s>
+what is the account number?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the name of the product?</s>
+who is the sender of the document?</s>
+what is effective date?</s>
+who is the editor?</s>
+who is the author?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the second title?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is plotted in the y-axis?</s>
+what is the name mentioned?</s>
+what is the title of the graph?</s>
+who wrote this document?</s>
+what is the document title?</s>
+what is the fullform of tuesday, ph.a?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the salary for 31st march 31st march, december 31.03.2012?</s>
+what is the title in the document?</s>
+what is the employee name?</s>
+what is the page number?</s>
+what is the percentage of rjr)?</s>
+what is the title of the graph?</s>
+what is the name on the top of the document?</s>
+what is the rjr?</s>
+what is the rjr?</s>
+what is the figure?</s>
+what is the telephone number?</s>
+what is the rjr?</s>
+what is the figure?</s>
+what is the date mentioned in this document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the date mentioned in the given page?</s>
+what is the brand?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the name of heart association?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the fullform of doral stands for?</s>
+what is the brand?</s>
+what is the date mentioned in the given page?</s>
+what is the date mentioned at the top of the page?</s>
+what is the document title?</s>
+what is the name of heart association?</s>
+what is the name of the university?</s>
+what is the date on the document?</s>
+what is the price mentioned for the given table?</s>
+what is the rate?</s>
+what is the name of heart association?</s>
+what is the price mentioned for the given table?</s>
+what is the second title in the document?</s>
+what is the second title in the document?</s>
+what is the date mentioned at the top right corner of the page?</s>
+what is the document title in the document?</s>
+what is the percentage percentage in the previous year?</s>
+what is the percent per million value mentioned in the given table?</s>
+what is the name of the country mentioned in the document?</s>
+what is the name of the person given in the document?</s>
+in which factory is the place?</s>
+what is the heading of the document?</s>
+what is the date mentioned at the top of the page?</s>
+what is the email id mentioned in the document?</s>
+what is the email id mentioned in this document?</s>
+what is the no. of bse?</s>
+what is the no. of s.03.y?</s>
+what is the heading of the document?</s>
+what is the company name?</s>
+what is the rate of the product mentioned in the document?</s>
+what is the value of johnson & johnson & johnson?</s>
+what is the value of rjr)?</s>
+what is the value of johnson mentioned in the given page?</s>
+what is the percent per share for the year 31st march 1993?</s>
+what is the title of the document?</s>
+what is the first title in the title in the document?</s>
+what is the title in the document?</s>
+what is the date mentioned in the form?</s>
+what is the name of heart association?</s>
+what is the title of the document?</s>
+what is the profit before tax?</s>
+what is the date on the document?</s>
+what is the chain id number?</s>
+what is the city mentioned in the given form?</s>
+what is the fullform of the product?</s>
+what is the company name?</s>
+what is the name?</s>
+what is the first title in the document?</s>
+what is the date?</s>
+what is the company name?</s>
+what is the standard form no. given in the voucher?</s>
+what is the year mentioned in the transmission report?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the date mentioned?</s>
+what is the document title?</s>
+what is the check amount?</s>
+what is the page number?</s>
+what is the heading of the document?</s>
+what is the expiration date?</s>
+what is the name of the hotel?</s>
+what is the chain id?</s>
+what is the page number?</s>
+what is the departure date mentioned in the given form?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the date on the document?</s>
+what is the page number?</s>
+heading of the document?</s>
+what is the first title in the document?</s>
+what is the fullform of rj)?</s>
+who are this document?</s>
+heading of the document?</s>
+what is the page number?</s>
+where is mentioned?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the value of johnson & johnson & johnson?</s>
+what is the name at the top of the page?</s>
+what is the name of the person given in the document?</s>
+which year is mentioned in the top of the document?</s>
+who is the sender of this letter?</s>
+who is this letter from?</s>
+who is the sender of this letter?</s>
+what type of document is this?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the status of the second column of the page?</s>
+what is the date mentioned at the top of the page?</s>
+what is the heading of the document</s>
+what is the date mentioned in this document?</s>
+what is the name of the company?</s>
+what is the date?</s>
+who is the chairman?</s>
+what is the page number?</s>
+who wrote this document?</s>
+who signed this document?</s>
+what is the date?</s>
+what is the date on the document?</s>
+how many pages are there?</s>
+what are the title of this document?</s>
+how many acres of cigarette?</s>
+what is the page no mentioned in this document?</s>
+what is the title of the document?</s>
+what does this document?</s>
+who is the author of the report?</s>
+what is the status of the year ended 31st march, 2008?</s>
+what is the date mentioned in this document?</s>
+what is the fullform of tuesday, epa?</s>
+how many percentage of mrs.03.2012?</s>
+what are the fullform of how many shares held?</s>
+what percentage of how many shares are given here?</s>
+what percentage of tuesday, how much title?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+who is the chairman?</s>
+what is the page number?</s>
+what is the page number?</s>
+who has signed the document?</s>
+what is the table number?</s>
+what is the first title in the document?</s>
+in which year it was conducted?</s>
+what is the percentage of rda?</s>
+who wrote this document?</s>
+what is the budget estimate for university?</s>
+what is the page number?</s>
+what is the title of the form?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the telephone number?</s>
+what is the date?</s>
+what is the page number given?</s>
+what is the chain id?</s>
+what is the fullform of mr)?</s>
+when will the due?</s>
+what is the status of "b"?</s>
+what is the status of the year ended 31.3(2)?</s>
+what is the email id mentioned in this document?</s>
+what is the title of the document?</s>
+what is the status of the report?</s>
+what is the status of the report?</s>
+what is the title of the document?</s>
+what kind of what is given here?</s>
+what is the title of the document?</s>
+what is the heading?</s>
+what is the heading of the document?</s>
+what type of documentation is this?</s>
+what is the name of the city mentioned in the form?</s>
+what is the title of the document?</s>
+when is the document dated?</s>
+what is the document title?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the name of the top of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+who has signed the document?</s>
+when is the document dated?</s>
+what is the page number?</s>
+who has signed the document?</s>
+what is the source?</s>
+how many pages are scanned?</s>
+who has signed the document?</s>
+what is the first title in the document?</s>
+how many pages are there?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the age group?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the title of the table?</s>
+what is the royalty product?</s>
+to whom this fax message was sent?</s>
+what is the sender of the fax?</s>
+what is the fax number?</s>
+what is the memorandum from?</s>
+what is the employee name?</s>
+what is the amount?</s>
+what is the amount?</s>
+what is the amount?</s>
+what is the time mentioned in the fax message?</s>
+what is the start date?</s>
+how many pages are there?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the number?</s>
+what is the account number?</s>
+what is the end date?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the year-to-date sales?</s>
+what is the royalty product?</s>
+what is the fax number?</s>
+what is the time mentioned in this document?</s>
+what is the page number?</s>
+how much is the percentage of mrs.s) for age group as at 31.3.2012
+how much is the percentage of mrs.s) for mrs.3.3.3.
+what is the name of the department mentioned in the given page?</s>
+who is the chairman?</s>
+who is the chairman?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of this document?</s>
+what is the page number?</s>
+who wrote this letter?</s>
+who wrote this document?</s>
+to whom is this letter addressed to?</s>
+who wrote this letter?</s>
+to whom is this letter addressed to?</s>
+what is the po box number?</s>
+what is the department?</s>
+what is the percentage of mrs. in the year 2009-1) for 31.3.2012
+to whom this letter was written?</s>
+to whom this letter is written?</s>
+what is the issued date of this letter?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the year mentioned in the given page?</s>
+who is the memorandum from?</s>
+who wrote this letter?</s>
+what is the check amount?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is plotted in top of the document?</s>
+what % of water is used for age group 5 years?</s>
+what is the total?</s>
+what is the royalty product?</s>
+what is the year-to-date sales?</s>
+what is the contract # number?</s>
+what is the product name?</s>
+who has signed this letter?</s>
+who is this letter from?</s>
+what is the year mentioned?</s>
+what is the chain id?</s>
+what is the name?</s>
+what is the document title?</s>
+what does acc stand for?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the name of the applicant?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the total value of shares held in 2009?</s>
+what is the total value of stock exchange ltd?</s>
+what is the total revenue for the year 31st march, 2009?</s>
+what is the name of heart association?</s>
+what is the no. of equity share for the year ended 31st march 31st march 2009?</s>
+when is the document dated?</s>
+where is the meeting held?</s>
+at what time is the lunch?</s>
+what is the total revenue?</s>
+at what time is the coffee break?</s>
+who is the sender of this letter?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the brand?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the room number?</s>
+what is the weight?</s>
+what is the document title?</s>
+what is the name of heart association?</s>
+who wrote this letter?</s>
+what is the subject mentioned?</s>
+what is the title of the document?</s>
+what is the heading?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the heading?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the total cost?</s>
+what is the heading of the document?</s>
+what is the document title?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name of the factory?</s>
+what is the address?</s>
+how much is the name?</s>
+how much is the cost?</s>
+what is the total?</s>
+what is the date mentioned?</s>
+what is the title in the document?</s>
+what is the budget for 1976-69?</s>
+what is the telephone number?</s>
+what is the title of the document?</s>
+what is the percentage of chicago?</s>
+what is the number?</s>
+what is the first title in the document?</s>
+who is the addressee of this letter?</s>
+what is the percentage of gm?</s>
+what is the title of the document?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the room number?</s>
+what is the document title?</s>
+who is the secretary?</s>
+what is the company name?</s>
+what is the figure?</s>
+what is the name of the company?</s>
+what is state?</s>
+what is the name?</s>
+what is the date?</s>
+what is it?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the budget for the year?</s>
+what is the date mentioned for this document?</s>
+what is the budget for the year?</s>
+what is the projected deficits $ for fee?</s>
+what is the budget for the year?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the budget?</s>
+what is the budget?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what is the ship date?</s>
+what is the name of heart association?</s>
+what is the company name?</s>
+what is fee?</s>
+what is the heading of the document?</s>
+what is the company name?</s>
+what is the fax no. mentioned?</s>
+what is the title of the document?</s>
+what is the id mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the response code?</s>
+what is the name?</s>
+what is the name?</s>
+what is the response code?</s>
+what is the estimated response?</s>
+what is the expiration date?</s>
+what is the y-axis of y-axis?</s>
+what is the title of the graph?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+where is the program?</s>
+what is the title of the graph?</s>
+who is mentioned?</s>
+what is the title of the graph?</s>
+what is the title of the graph?</s>
+what is the time?</s>
+what is the amount of cash income as on october 31st march 2011?</s>
+what is the value of assets for the year ended 31st march, 2011?</s>
+what is the budget?</s>
+what is the amount of assets in 2011?</s>
+what is plotted in the x-axis?</s>
+what is the title of the document?</s>
+what title of the graph?</s>
+what is the total assets in 2011?</s>
+what is the value of current year ended 31st march?</s>
+what is the estimated budget for publication?</s>
+what is the estimated budget for publication?</s>
+what is the year mentioned for this document?</s>
+what is the year mentioned in this document?</s>
+what is the page number?</s>
+what is the total assets in 2011?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the total assets in crores)?</s>
+what is the document title?</s>
+what is the year mentioned?</s>
+what is the projected deficits $?</s>
+what is the page number?</s>
+what is the name of the company?</s>
+what is the total budget?</s>
+what is the company name?</s>
+what is the total budget?</s>
+what is the name of the hotel?</s>
+what is the name mentioned?</s>
+what is the date mentioned?</s>
+what is the total budget?</s>
+how many pages are mentioned in the document?</s>
+what is the title of the document?</s>
+what is the date mentioned in this document?</s>
+what is the budget?</s>
+what is the heading of the document?</s>
+what is the last name?</s>
+what is the date mentioned in the given page?</s>
+what is the name of heart association?</s>
+how many pages?</s>
+what is the first title in the document?</s>
+what is the name of the hotel?</s>
+what is the name of the hotel?</s>
+how many days are there?</s>
+how much is the total budget?</s>
+what is the total budget?</s>
+what is the position?</s>
+how many rjr program?</s>
+who is designated as mentioned in the given page?</s>
+when is the document dated?</s>
+what is the position of robert e. h. shank?</s>
+who wrote this letter?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is plotted in the graph?</s>
+what is the title of the document?</s>
+what is plotted in the x-axis?</s>
+what is plotted in the x-axis?</s>
+what is the title of the document?</s>
+what is it?</s>
+when is the lunch?</s>
+what is the second title in the document?</s>
+where is this letter from?</s>
+what is the title of the document?</s>
+when is the lunch?</s>
+what is the purchase order no.?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the purchase order no.?</s>
+what is the name?</s>
+what is the total assets for 1995?</s>
+what is the page number?</s>
+who wrote this document?</s>
+what is the product name?</s>
+what is the total assets for 1995?</s>
+what is the document title?</s>
+when is the lunch?</s>
+what is the first title in the document?</s>
+what is the grade for age group?</s>
+who is the sender of the document?</s>
+what is the total assets for 1995?</s>
+what is the title of the document?</s>
+what is the second title in the document?</s>
+what is the company name?</s>
+what is the brand?</s>
+who is the sender?</s>
+what is the name?</s>
+what is the chain id?</s>
+what is the chain id?</s>
+what is the title of the document?</s>
+what is the second title in the document?</s>
+what is the brand?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+when is the document dated?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the company name?</s>
+what is the name of the association?</s>
+what is the brand?</s>
+what is the company name?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+who is the author?</s>
+when is the document dated?</s>
+what is the department?</s>
+what is the objective?</s>
+what is the author?</s>
+by whom is this document?</s>
+when is the document dated?</s>
+what is the publication date?</s>
+what is the title of the document?</s>
+what is the date mentioned?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the table?</s>
+what is the schedule at the time of 10:30 p.m.m.m.m.
+what is the page no mentioned in this document?</s>
+what is the page number?</s>
+what is the page no mentioned in this document?</s>
+what is the salutation of this letter?</s>
+how much was used for analysis?</s>
+what is the royalty product given in the form?</s>
+mention the company's name?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the year-to-date sales of the royalty product?</s>
+what is the schedule at the time of 12?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+to whom is this letter addressed to?</s>
+what is the year-to-date sales of the royalty product?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the heading of the page?</s>
+what is the year-to-date sales of the royalty product?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the?</s>
+what is the email id mentioned in this document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the document title?</s>
+what is the title?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what type of documentation is this?</s>
+who is the client?</s>
+what is the email id?</s>
+who is the vendor?</s>
+what is the date to be paid?</s>
+what is the issued date of the document?</s>
+what is the title of the document?</s>
+what is the royalty product?</s>
+what is the year-to-date sales?</s>
+what is the date to be paid?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the year mentioned in this document?</s>
+how much amount is shown in the graph?</s>
+how much is the year mentioned in this document?</s>
+what type of form is this?</s>
+what is the rjr brand?</s>
+mention the x-axis?</s>
+what is the name?</s>
+what is the address?</s>
+what is the name?</s>
+what is the rjr program name?</s>
+what is mentioned in the given page?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the table number?</s>
+what is the product name?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the box number?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the amount for the year ended 31st march, 2008?</s>
+what is the amount for the year ended 31st march, 2008?</s>
+what does y-axis?</s>
+what is the budget for ltd on 31.03.2012?</s>
+what is the number?</s>
+who is the investigator as per the title in the document?</s>
+what percentage of revision?</s>
+what is the amount for rjr)?</s>
+what is the fullform of b?</s>
+what is the price for rjr)?</s>
+who is designated as per the document?</s>
+how much % of b?</s>
+what is the value of c?</s>
+what is the value of sis?</s>
+what is the full price for age group 1st march 1993?</s>
+what is issued date of the document?</s>
+what is the total income?</s>
+what is the company name?</s>
+what is the estimated cost for 1976-69?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what is the name of tobacco company</s>
+what is the order no. of sis?</s>
+what is the order no.?</s>
+what is the name of the person given in the document?</s>
+what is the order no. for mrs.03.2012?</s>
+what is the fullform of mrs. mrs.2012?</s>
+what is the purchase order no.?</s>
+what is the name of the applicant?</s>
+what is the id?</s>
+what is the title of the document?</s>
+what is the brand?</s>
+what is the result?</s>
+what is the name on the top of the document?</s>
+what is the department?</s>
+what is the page number?</s>
+what is the heading of the document?</s>
+what is the document title?</s>
+what is?</s>
+what is the date?</s>
+what is the title of the document?</s>
+what is the percentage of sodium in the year 2011?</s>
+when is the document dated?</s>
+what is the telephone number?</s>
+how much is the source?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the heading of the table?</s>
+what is this?</s>
+what is the phone number?</s>
+which university is mentioned?</s>
+what is the title of the document?</s>
+what is the subject?</s>
+what is the subject?</s>
+what is the code?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the product name?</s>
+what is the heading of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the fee?</s>
+what is title of the document?</s>
+what is the value of revision for 1989?</s>
+what is the description of water?</s>
+how much amount is for the financial year?</s>
+who has signed the document?</s>
+what is the percentage of women who drink only?</s>
+how many pages are there in 1969?</s>
+when is the document dated?</s>
+what is the second title in the document?</s>
+what is the analysis?</s>
+how many total for the financial year?</s>
+what is the title?</s>
+what is the company?</s>
+what is the subject?</s>
+what is the page no mentioned in this document?</s>
+what is the title of the document?</s>
+what is the telephone number?</s>
+what is the parts per million) for analysis?</s>
+who is the letter from?</s>
+what is the mean time for 1995?</s>
+what is the mean time for 1995?</s>
+who is this letter from?</s>
+what is the designation of dr. darby?</s>
+what is the page number?</s>
+what is the parts per million as per the analysis?</s>
+who is the sender?</s>
+what is the name of the association?</s>
+what is the company name?</s>
+what is the name?</s>
+what is the date?</s>
+what is the name of the university mentioned in the form?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the date mentioned in this document?</s>
+what is the fax number?</s>
+what heading of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the total amount?</s>
+what is the parts per million as per the analysis?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the total income?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+who is the chairman of california division of california</s>
+what is the first title in the document?</s>
+what is the title?</s>
+who is the vice president of american heart association?</s>
+what is the amount of assets in 2011?</s>
+what is the total income?</s>
+what is the title of the given in the document?</s>
+who signed the document?</s>
+what is the page number?</s>
+what is the value of balance sheet?</s>
+what is the document title?</s>
+what is the date mentioned?</s>
+what is the telephone number?</s>
+what is purchase order number?</s>
+what is the result?</s>
+what is the time?</s>
+what is the company name?</s>
+what is the document title?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the balance as on 31st march 31st march 2009?</s>
+what is the balance as on 31st march 31st march 2009?</s>
+what is the balance as on october 31st march 2011?</s>
+what is the date mentioned?</s>
+what is the company name?</s>
+what is the product name?</s>
+what is plotted in the graph?</s>
+what is plotted in the image?</s>
+what is the page number?</s>
+heading of the document?</s>
+what is the first title in the document?</s>
+heading of the document?</s>
+what type of water?</s>
+what is the name of heart association?</s>
+what is the product name?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the date of this document</s>
+what is the name of company?</s>
+who is the sender of the document?</s>
+what is the first title in the document?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the title of charles a.?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the name of company?</s>
+what is the name of the company?</s>
+what is the form about?</s>
+to whom is this letter addressed to?</s>
+what is the time mentioned?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the name of company?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is heading of the document?</s>
+what is the page number?</s>
+what is mentioned at the top of the page?</s>
+what is the start time mentioned?</s>
+what is the name of the city mentioned in the given page?</s>
+whats the fullform of darby belongs to u. b. shank?</s>
+what is the company name?</s>
+according to epa is mentioned?</s>
+what is the name of the company?</s>
+what is the page number?</s>
+what is the name of the person?</s>
+what is the title of the document?</s>
+when is the document dated?</s>
+what is the name of the person?</s>
+what is the name of the company?</s>
+what is the document title?</s>
+what is the name of foundation?</s>
+what is the page number?</s>
+what is the name of company?</s>
+what is due?</s>
+how much is the value of chicago?</s>
+what is the title of the document?</s>
+what is the fee for fy 1976-69?</s>
+what is the page number?</s>
+what is the name?</s>
+to whom is addressed to?</s>
+what is the phone?</s>
+what is the brand?</s>
+what is the name of heart association?</s>
+what are the fullform of 31st march 1993?</s>
+what is at the top of the page?</s>
+what is the fee?</s>
+what is the amount?</s>
+what is fee?</s>
+what is the bank name?</s>
+what is the designation of s. darby?</s>
+what is the page number?</s>
+what is expiration date?</s>
+what is the amount?</s>
+what is the date mentioned in the document?</s>
+what is the average intake of children?</s>
+how many hectares of children?</s>
+what is the name of the sender?</s>
+what is the time as per the document?</s>
+to whom is this addressed to?</s>
+what is the phone number?</s>
+what is the date mentioned?</s>
+what is the percentage of 31st march 31st march 2007?</s>
+what is the amount for 31st march 31st march 1993?</s>
+what is the page number?</s>
+who is the editor?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title?</s>
+what is the fee?</s>
+what is the department?</s>
+what is the title of the document?</s>
+what is the fee?</s>
+what is the name of the company?</s>
+what is the second title in the document?</s>
+who wrote this letter?</s>
+who wrote this letter?</s>
+what is the title of the graph?</s>
+who wrote this letter?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the percentage of sodium in the age of 5 years?</s>
+what is the name of the program?</s>
+what is the percentage of sodium present in the graph?</s>
+what is the percentage of sodium present in the graph?</s>
+what is plotted in the y-axis?</s>
+what is the percentage of sodium present in the graph?</s>
+what is the date mentioned in this document?</s>
+what is the percentage of revision for % of women?</s>
+what is the page number?</s>
+what is the heading of the document?</s>
+what is the first title in the document?</s>
+what is the date on the document?</s>
+what is the check amount?</s>
+who is the chairman?</s>
+what is the date of the invoice?</s>
+what is the invoice number?</s>
+what is the issued date of the document?</s>
+what is the date of the invoice?</s>
+to whom is this letter addressed to?</s>
+what is the date?</s>
+what type of documentation is this?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the percentage of rjr?</s>
+what is the title of the document?</s>
+what is the vendor number?</s>
+what is the brand?</s>
+what is the name?</s>
+what is the second title in the document?</s>
+what is the date on the document?</s>
+what is the second title in the document?</s>
+whom is this document addressed to?</s>
+to whom is this document addressed to?</s>
+what is the designation of darby?</s>
+what is the amount?</s>
+what is the date mentioned?</s>
+who is the vendor?</s>
+what is the vendor number?</s>
+what is the first title in this document?</s>
+what is the fullform of 'a in this document?</s>
+what is the first title in the document?</s>
+who is the memorandum from?</s>
+to whom is this letter addressed to?</s>
+what is the street address?</s>
+what is the date mentioned in the invoice?</s>
+where is this letter from?</s>
+which city is mentioned?</s>
+what is the title of the document</s>
+how many pages are there?</s>
+what is the page number?</s>
+who wrote this letter?</s>
+what is the phone number mentioned?</s>
+from whom is this document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+who wrote this document?</s>
+what is the name of the company?</s>
+what is the title of this document?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what is the fax number?</s>
+mention the heading given at the top right corner of the page?</s>
+what is the name given in the form?</s>
+what is the title?</s>
+what is the page number?</s>
+what is the heading of the document?</s>
+what is the page number?</s>
+when is the document dated?</s>
+what is the page number?</s>
+who is the investigator?</s>
+what is the email?</s>
+what is the document title?</s>
+who wrote this letter?</s>
+what is the document title?</s>
+who is the addressee of this letter?</s>
+what is the given here?</s>
+who is the addressee of this letter?</s>
+what is the company name?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the product name?</s>
+what is the heading of the document?</s>
+what is the product name?</s>
+what is the date mentioned here?</s>
+what is the order no.?</s>
+when is the lunch?</s>
+when is the lunch?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what heading is given here?</s>
+what type of this?</s>
+what is the document title?</s>
+what is the second title in the document?</s>
+what is heading of the document?</s>
+what is the fax number?</s>
+what kind of water is this?</s>
+what is the first title in the document?</s>
+for whom?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name mentioned?</s>
+how much is the year mentioned in the report?</s>
+what is the total amount mentioned in the document?</s>
+what is the total revenue?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the subject?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the first title in the document?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the balance as per the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the cost of the department?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the total balance sheet date?</s>
+what is the page number?</s>
+what is the name of heart association?</s>
+what is the date mentioned?</s>
+mention the financial year ended 31st march, 2007?</s>
+who has signed the document?</s>
+who wrote this letter?</s>
+who signed the document?</s>
+what is the page number?</s>
+how much salary for the financial year 31, 2008?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the name of the university mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the name of company?</s>
+what is the document title?</s>
+what is the value of johnson & johnson?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+who is the sender of this letter?</s>
+who is the sender of this letter?</s>
+who is the vice president?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+who is the sender of the document?</s>
+what is the title of the document?</s>
+heading of the document?</s>
+what is the timing mentioned in the given page?</s>
+what is the page no mentioned in this document?</s>
+what is the date mentioned?</s>
+what does epa stand for?</s>
+what is the exhibit no.?</s>
+what is the subject mentioned in the document?</s>
+from whom is this document?</s>
+what is the second title in the document?</s>
+what is the city?</s>
+what is the subject mentioned in the document?</s>
+epa stands for epaa?</s>
+what is the page number?</s>
+what?</s>
+heading of the document?</s>
+what is the date mentioned in this letter?</s>
+what is the rjr?</s>
+what is?</s>
+what is the rjr?</s>
+what is the status?</s>
+what is start time?</s>
+according to the heading of the page?</s>
+according to the heading at the page?</s>
+what is the date mentioned at the top of the page?</s>
+what kind of acc?</s>
+what is the page number?</s>
+what is the document title?</s>
+what does acc stands for?</s>
+what is the page number?</s>
+what is the status?</s>
+what is the page number?</s>
+what is the product name?</s>
+what is the name?</s>
+what is plotted in the bottom right corner?</s>
+what is the financial year mentioned in the given page?</s>
+what is the date mentioned in the given page?</s>
+what is the date mentioned in the given page?</s>
+what is the contract no. given in the voucher?</s>
+what is the social security number mentioned in the given form?</s>
+what is the total amount mentioned in the given form?</s>
+what is the company name?</s>
+what is the total amount mentioned in the given form?</s>
+what is the total amount mentioned in the given form?</s>
+what is the name of the university mentioned in the given form?</s>
+who wrote this document?</s>
+what is the name of american heart association?</s>
+which state is mentioned?</s>
+who wrote this document?</s>
+when is the break?</s>
+what is the company name?</s>
+what is the date mentioned in the given page?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+who is the chairman?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the first title in the document?</s>
+what is the date mentioned in this document?</s>
+what is the page number?</s>
+who wrote this letter?</s>
+who wrote this document?</s>
+what does acc stand for?</s>
+what is the page number?</s>
+what does acc stands for?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the country?</s>
+what is the place?</s>
+what is the title in the document?</s>
+in which year was the american heart association?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the date mentioned here?</s>
+what is the fax number?</s>
+what is the document title?</s>
+what is the telephone number of mr. c. b. shank?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the room number?</s>
+what is the heading of the document?</s>
+what is the first title in the document?</s>
+what is the name of company?</s>
+what is the name of company?</s>
+what is the department?</s>
+what is the page number?</s>
+what is the name of the university?</s>
+what is the order no.?</s>
+what is the name of company?</s>
+what is the page number?</s>
+when is the meeting?</s>
+what is the title of the graph?</s>
+what time is the dinner?</s>
+when is the lunch?</s>
+who is chairman?</s>
+when is it held?</s>
+what is the percentage of n?</s>
+what is the x-axis of the graph?</s>
+what is the lunch time?</s>
+what is the title of the table?</s>
+what time is scheduled for dinner?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the percentage of n?</s>
+what is the first title in the document?</s>
+what is the percentage of n?</s>
+what is the x-axis of the graph?</s>
+what is the percentage?</s>
+what is the date mentioned in the document?</s>
+what is the royalty product?</s>
+what is the start date of the royalty period?</s>
+who is the chairman?</s>
+what is the start date of the royalty period?</s>
+what is the year-to-date sales?</s>
+what is the name of project?</s>
+what is the name of the university?</s>
+who is the director?</s>
+what is the city?</s>
+what is the department?</s>
+what is the document title?</s>
+what is the year-to-date sales?</s>
+what is the heading of the document?</s>
+what is the company name?</s>
+what is the year-to-date sales?</s>
+what is the page number?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the percentage of new york?</s>
+what is the amount mentioned in the form?</s>
+what is the heading of the document?</s>
+what is the first title in the document?</s>
+what is the ph value for age group at 31.3.2012?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the title of the graph?</s>
+what is the total expenditure for the year 2011?</s>
+what is the total for the year 2011?</s>
+what is the x-axis?</s>
+what is the total expenditure for the year 2011?</s>
+what is the start time?</s>
+what is the total for the year 2011?</s>
+what is the x-axis?</s>
+what is the title of the document?</s>
+what is plotted in the y-axis?</s>
+who wrote this document?</s>
+what is the designation of darby?</s>
+what is the page number?</s>
+in which year this year?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the net sales for 2008?</s>
+what is plotted in the y-axis?</s>
+what is the net income?</s>
+what is the percentage of revision?</s>
+in which year, robert?</s>
+who wrote this letter?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the invoice number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the ph value for the age group at 31.3.2012?</s>
+what is the ph value for age group at 31.3.2012?</s>
+what is the date?</s>
+what is the description?</s>
+who is the sender?</s>
+what is the description?</s>
+what is the document title?</s>
+what is the brand?</s>
+what is the document title?</s>
+what is the email id?</s>
+what is the designation of mrs. h.d.?</s>
+who is designated as per the letter?</s>
+what is the id?</s>
+who is this letter from?</s>
+who is this letter from?</s>
+who is this letter from?</s>
+what is the invoice number?</s>
+what is the name?</s>
+what is the ship date?</s>
+what is the id?</s>
+how many members are there?</s>
+what is the total amount?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the phone?</s>
+what is the name of company?</s>
+what is the telephone number?</s>
+what is the vendor number?</s>
+what is the price for marlanta?</s>
+what is the title of the document?</s>
+when is held?</s>
+what is the price for rjr?</s>
+what is the value for rjr?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what does epa stand for?</s>
+who is the sender of this document?</s>
+what is the second title in the document?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+who has signed the document?</s>
+what is the issued date of this document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the expense for june 30, 1982?</s>
+what is the date?</s>
+who is the editor?</s>
+what is the date?</s>
+what is the phone?</s>
+how many pages?</s>
+what is the date?</s>
+what is the date?</s>
+what is the fee?</s>
+what is the project name?</s>
+what is the quantity?</s>
+what is the employee name?</s>
+what is due?</s>
+what is the contract number?</s>
+what is the subject?</s>
+what is the date on the document?</s>
+what is delivery date?</s>
+what is the title of the document?</s>
+who is the vice president?</s>
+what is the name mentioned?</s>
+what is the name?</s>
+what is the title mentioned?</s>
+what is the name?</s>
+what is the date mentioned?</s>
+what is the middle name?</s>
+what is the title of the document?</s>
+by whom is this document?</s>
+what is the page number?</s>
+to whom is this letter addressed to?</s>
+by whom is this document?</s>
+what is the figure number?</s>
+what does this document represent?</s>
+what is the title of the document?</s>
+mention the heading of the document?</s>
+what is the date mentioned in the document?</s>
+what is the name?</s>
+what is the date?</s>
+what type of documentation is this?</s>
+what is the name of the university?</s>
+what is the date?</s>
+what is?</s>
+what is the name?</s>
+what is the name?</s>
+how much is the fee?</s>
+what is the date on the document?</s>
+what is the page number?</s>
+what is the name of the university mentioned here?</s>
+what is the title of the document?</s>
+what is the title?</s>
+what type of documentation is this?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the state?</s>
+who wrote this letter?</s>
+what type of documentation is this?</s>
+who wrote this document?</s>
+who wrote this document?</s>
+what is the fee?</s>
+what is the title in the document?</s>
+what is the fee?</s>
+by whom this letter was written?</s>
+what is the total?</s>
+what is the title of the document?</s>
+what are the total?</s>
+what is the telephone number?</s>
+when is the lunch?</s>
+what is the heading of the document?</s>
+what are the total?</s>
+what are the page number?</s>
+what is the title?</s>
+what is the period?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the subject mentioned in the given page?</s>
+what is the last name mentioned in this document?</s>
+what is the name of the company?</s>
+what is the last name?</s>
+what is the name of the university mentioned in the application?</s>
+how many pages are there?</s>
+what is the total payment?</s>
+what is the page number?</s>
+what is the title mentioned?</s>
+what is the first title in the document?</s>
+who has signed the document?</s>
+what is the year mentioned in the document?</s>
+what is the royalty product?</s>
+what is the name of the factory?</s>
+what is the expenditure?</s>
+what is the form no.?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the total?</s>
+what is the date mentioned at the top corner?</s>
+what is the title of the document?</s>
+how much is the fee?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the date mentioned in the document?</s>
+who is the editor?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the department?</s>
+what is the city?</s>
+what is the name of the person given in the form?</s>
+what is the name?</s>
+what is the name?</s>
+what is the city?</s>
+what is the title of the document?</s>
+what is the name of the association?</s>
+what is the amount?</s>
+what is the telephone number mentioned?</s>
+what is the page number?</s>
+when is the lunch?</s>
+to whom is this letter addressed to?</s>
+what is the expiration date?</s>
+to whom the letter is addressed?</s>
+what is the rjr?</s>
+what is the letter number?</s>
+what is the phone number?</s>
+who is designated as per the document?</s>
+what is the phone number?</s>
+what is the date mentioned in the document?</s>
+what is the due date mentioned?</s>
+what is the date mentioned in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the rjr brand?</s>
+what is the title of the document?</s>
+what is expiration date?</s>
+what is expiration date?</s>
+what is the document title?</s>
+who is designated as per the document?</s>
+what is the company name?</s>
+who wrote this document?</s>
+what is the date mentioned in this document?</s>
+what is the title of the document?</s>
+what is the brand?</s>
+what is the expiration date?</s>
+how much is fee?</s>
+what is the actual income for age group for the year 1975 for the year?</s>
+what is the fee?</s>
+what is the designation of darby?</s>
+what is the date mentioned?</s>
+what is the company name?</s>
+who is the addressee of this letter?</s>
+what is the date mentioned in the top of the document?</s>
+what is the starting period?</s>
+what is the year mentioned in the form?</s>
+what is the date mentioned here?</s>
+what is the company name?</s>
+what is the name of the company?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the name of the company?</s>
+what is the date mentioned in the top of the document?</s>
+what is the designation of dr. william j. r. r. h. h. c.
+what is the date mentioned in this document?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the status?</s>
+what is the fullform of darby in calif?</s>
+what is the telephone number?</s>
+what is the page number?</s>
+what is the rate?</s>
+what is the date mentioned in the document?</s>
+what is the name given in the document?</s>
+what is the fullform of darby in calif?</s>
+what is the second title in the document?</s>
+what is the heading of the document?</s>
+what is the document title?</s>
+what kind of the analysis?</s>
+what is the title of the document?</s>
+in which factory is the analysis conducted?</s>
+what is the page number?</s>
+what is mentioned in this document?</s>
+what is the document title?</s>
+what is the name of the image?</s>
+what is the title of the document?</s>
+what is the designation of dr. darby?</s>
+who wrote this letter?</s>
+who is this letter from?</s>
+in which year this letter was received?</s>
+who wrote this letter?</s>
+to whom is this document addressed?</s>
+to whom is this document addressed?</s>
+what is the received date mentioned in this document?</s>
+what is the time mentioned in the document?</s>
+what is the fax number?</s>
+what is the title?</s>
+what is the title of the document?</s>
+what is the factory name?</s>
+what is the middle name?</s>
+what is the date?</s>
+how many pages are there including cover sheet?</s>
+what is the fee for the year 2011?</s>
+who is the memorandum from?</s>
+what is the page number?</s>
+what is the fee for the year 2011?</s>
+who is the memorandum from?</s>
+what is the fee for the financial year 2011?</s>
+what is the fee for the year 2011?</s>
+what is the fee for the year 2011?</s>
+what is the year mentioned for the document?</s>
+what is the value of 1st year?</s>
+what is the zip code?</s>
+what is time mentioned in the document?</s>
+what is the company name?</s>
+who wrote this letter?</s>
+what is the designation of dr. darby?</s>
+what is the company name?</s>
+who wrote this letter?</s>
+who wrote this letter?</s>
+who wrote this letter?</s>
+what is the ph value for the analysis?</s>
+by whom this letter was written?</s>
+what is the date mentioned in memorandum?</s>
+what is the title of this document?</s>
+what is the issued date of this letter?</s>
+to whom, the letter is addressed?</s>
+who wrote this letter?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+on which date this application was received?</s>
+what is the name?</s>
+how much is the fee mentioned in the application?</s>
+what is the name?</s>
+what is the effective date?</s>
+what is the date mentioned?</s>
+what is the date mentioned at the top of the page?</s>
+what is the title of the document?</s>
+what is the fax number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the factory name?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the program name?</s>
+what is the brand name?</s>
+what is the date mentioned in the given page?</s>
+what is the last name?</s>
+what type of form is</s>
+what is the heading of the top of the document?</s>
+who is this letter from?</s>
+what is the first title in the document?</s>
+what is the fax number?</s>
+what is the date mentioned in the given page?</s>
+what is the subject mentioned?</s>
+what is the amount of budget mentioned in the given page?</s>
+what is the name mentioned?</s>
+what is the title in the document?</s>
+what is the time mentioned in the given page?</s>
+what is the page number at top of the page?</s>
+what is the title of the document?</s>
+what is the date mentioned in the top of the document?</s>
+what is the title of the document?</s>
+what is the subject mentioned?</s>
+what is the title of the document?</s>
+what is the last name?</s>
+what is the page number?</s>
+what analysis is this?</s>
+what is the name of analysis?</s>
+what is the analysis for analysis?</s>
+what is the title of the document?</s>
+what is the name given in the document?</s>
+what is the title of the document?</s>
+which company is the company?</s>
+who wrote this letter?</s>
+what is the page number?</s>
+what are the objective?</s>
+what is the title of the document?</s>
+what is the fee?</s>
+what is the title of the document?</s>
+what is the subject?</s>
+what is the page number?</s>
+what is the purchase order no.?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the title in the document?</s>
+what is the department?</s>
+what is the last name?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the time?</s>
+what is the phone?</s>
+what is the company name?</s>
+who wrote this letter?</s>
+what is the brand?</s>
+what is the name of heart association?</s>
+how many members are there?</s>
+who wrote this document?</s>
+what is the name mentioned?</s>
+to whom is this letter addressed to?</s>
+what is the page number?</s>
+what is the title of table?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+who is the sender of the document?</s>
+what is the date mentioned?</s>
+what is mentioned?</s>
+what is the value of children in 2008?</s>
+what is the date mentioned?</s>
+what is the no. of children in 1969?</s>
+what is the mean value of age of 1970?</s>
+what is the no. of protein in 2008?</s>
+what is the no. of b?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the percentage of revision for medicare allowance for 2008?</s>
+what is the date mentioned in this document?</s>
+what is the page number?</s>
+what is the date mentioned in this document?</s>
+what is the name mentioned?</s>
+who wrote this letter?</s>
+what is the heading of the document?</s>
+what is the title of the document?</s>
+to whom is this letter addressed to?</s>
+who wrote this letter?</s>
+what is the name of the company?</s>
+what is the letter number?</s>
+what is the page number?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the issued date of the document?</s>
+what is the name of the company?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the percentage of the year ended 31st march, 2008?</s>
+what is the date mentioned at the top of the page?</s>
+what is the date at the top of the page?</s>
+what is the name?</s>
+what is the name?</s>
+to whom is this letter addressed to?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+who is this letter from?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what are the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what are the title of the document?</s>
+what is the title of the document?</s>
+what is the name of tobacco company?</s>
+what is the title of the document?</s>
+what is plotted in the y-axis?</s>
+what is the designation of darby?</s>
+what is the title of the document?</s>
+what is the employee name mentioned in the given form?</s>
+what is the source?</s>
+what is order number?</s>
+what is the page number?</s>
+what is telephone number?</s>
+what is the date mentioned in the given form?</s>
+what is the date?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the number?</s>
+who has signed the document?</s>
+what is the total budget?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the name as per the document?</s>
+what is the telephone number?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+who has signed the document?</s>
+what is the percentage of students?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the time?</s>
+what is the page number?</s>
+what is the po box number?</s>
+what is the title of the document?</s>
+what is the value of potassium mg./100g.) for 1976?</s>
+how many dollars were there?</s>
+what is the title of the document?</s>
+what are mentioned?</s>
+what type of form is this?</s>
+what does this document represent?</s>
+what is the title of the document?</s>
+what is the total cost?</s>
+who is designated as per the document?</s>
+what is the total direct costs?</s>
+what is the total budget?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the heading at top of the page?</s>
+what is the value of potassium mg./100g.) present in milk as mentioned in the given page?
+what is the value of potassium mg./100g.) present in r&d)?</s>
+what is the value of potassium mg./100g.) present in milk as mentioned in the given page?
+what is the heading at the top of the page?</s>
+what is written in the title field?</s>
+what is the amount?</s>
+what is the invoice amount?</s>
+what is the title of the document?</s>
+what is the employee name?</s>
+what is due date?</s>
+what is the page number mentioned in this document?</s>
+what is the page number?</s>
+what type of water is this?</s>
+what is the amount?</s>
+what is the name?</s>
+what is the issued date of the form?</s>
+what is the title of the document?</s>
+what is the date mentioned in the top of the document</s>
+what is the title of the document?</s>
+who is the sender of the fax?</s>
+what is the name?</s>
+what is the date mentioned?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the fax number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the date mentioned in this document?</s>
+what is the first title in this document?</s>
+what is the first title in this document?</s>
+from whom is this document?</s>
+who is this fax from?</s>
+what is the first title in this document?</s>
+what is the table number?</s>
+what is the title of table?</s>
+what is the number of pages?</s>
+what is the page number?</s>
+who sent this fax?</s>
+what is the fax number?</s>
+what is the source?</s>
+what is the image?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of table?</s>
+what is the date mentioned?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the telephone number?</s>
+what is the vendor number?</s>
+what is the subject?</s>
+what is the percentage of revision?</s>
+what is the percentage of revision?</s>
+what is the account no. given in the document?</s>
+what is the total?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the royalty product?</s>
+what is the page no mentioned in this document?</s>
+what is plotted in the y-axis?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the subject of this letter?</s>
+what does b. stand for?</s>
+what is the second title in the document?</s>
+what type of memorandum is this?</s>
+what is the total amount?</s>
+what is the title of this document</s>
+what type of acc stands for?</s>
+what is the total amount?</s>
+what is the starting period?</s>
+what is the total amount?</s>
+what is the starting period?</s>
+what is the year-to-date sales?</s>
+what is the title of this document</s>
+what must be held by whom?</s>
+what is the percentage of total?</s>
+what is the percentage of rda?</s>
+what is the name of tobacco company mentioned in the given page?</s>
+what is the home address given in the document?</s>
+what is the page no mentioned in this document?</s>
+what is the date to be paid?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page no mentioned in this document?</s>
+what is the average intake of milk?</s>
+what is the issued date of this letter?</s>
+who wrote this letter?</s>
+who wrote this letter?</s>
+what is the fullform of rjrt stands for?</s>
+what is the subject mentioned?</s>
+what is the proposal?</s>
+who wrote this letter?</s>
+what is the fullform of hrt?</s>
+who wrote this letter?</s>
+what is the designation?</s>
+what is the title of this document?</s>
+according to epa, how many calories does hrt stands for?</s>
+what is the title of the document?</s>
+what is the phone?</s>
+what is the title of the document?</s>
+what is the code mentioned in the given table?</s>
+what is the estimated budget mentioned in the budget?</s>
+what is the contract no mentioned in the given page?</s>
+what is the date mentioned in the given page?</s>
+what is the heading at the top corner of the page?</s>
+to whom is this letter addressed to?</s>
+what is the estimated budget?</s>
+how many acres of how many calories does 1.2012?</s>
+what is the country?</s>
+what is the name mentioned in the given form?</s>
+what is the date mentioned in the given page?</s>
+what is the name of the company?</s>
+what is the designation of mr. darby mentioned in the form?</s>
+what is the date mentioned?</s>
+what is the birth date mentioned?</s>
+what is the page no mentioned in this document?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+mention the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page no mentioned in this document?</s>
+what is the date mentioned in this document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+by whom?</s>
+what is mentioned?</s>
+what is the page number?</s>
+how much is the location?</s>
+which association is mentioned?</s>
+how many pages are there?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the subject?</s>
+mention the year mentioned?</s>
+in which factory is the analysis conducted?</s>
+what is the company name?</s>
+what is the analysis conducted?</s>
+what is the water for analysis?</s>
+what is the name of the meeting?</s>
+analysis is used for analysis?</s>
+what is the parts per million value for analysis?</s>
+what is the parts per million value for analysis?</s>
+what is the parts per million analysis?</s>
+what is the title of the document?</s>
+what is the parts per million analysis?</s>
+what is the room no mentioned?</s>
+what is the parts per million as per the analysis?</s>
+who has signed this document?</s>
+what is the title of the document?</s>
+what is the source?</s>
+what is the title of the document?</s>
+what is the sheet no.?</s>
+what is the title of the document?</s>
+what is the value of water?</s>
+what is the total amount mentioned in the given page?</s>
+what is the percentage of rjr?</s>
+what is the total amount mentioned in the given page?</s>
+what is the source?</s>
+what is the value of silica?</s>
+what is the document title?</s>
+what is the total amount mentioned in the given page?</s>
+what is the budget mentioned in the given page?</s>
+what are there?</s>
+what is the name?</s>
+what is the date mentioned?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+what is it?</s>
+what is the country?</s>
+by whom?</s>
+what is the type?</s>
+when is the document dated?</s>
+what is the name?</s>
+what is the country?</s>
+what is the city?</s>
+what is the zip code?</s>
+how many number of how many pages?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+when is the lunch?</s>
+what is the page number?</s>
+when is the document dated?</s>
+what is the page no mentioned in this document?</s>
+what is the first title in the document?</s>
+in which factory is the analysis conducted?</s>
+what is the first title in the document?</s>
+what is the schedule at the time of 10:00?</s>
+what is the date mentioned in this document?</s>
+what kind of water?</s>
+what does epa stand for?</s>
+what is the document title?</s>
+what is the heading at the top of the page?</s>
+what is the first title in the document?</s>
+what is the document title?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the company name?</s>
+what is the name of the company?</s>
+what is the first title in the document?</s>
+what is the name of company?</s>
+what is the name of the hotel?</s>
+what is the name?</s>
+what is the volume?</s>
+what is the volume?</s>
+what is plotted in the y-axis?</s>
+what is plotted in the y-axis?</s>
+what is the water analysis?</s>
+what is the figure number?</s>
+what is the figure number?</s>
+what is the figure number?</s>
+what is the x-axis of the graph?</s>
+who is the addressee of this letter?</s>
+how many no. of stores are mentioned in the form?</s>
+what is the name of the company?</s>
+what is the rjr account number?</s>
+who is the sender of this letter?</s>
+to whom is the letter addressed?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the date mentioned in the top of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the schedule at the top of the page?</s>
+what is the page number?</s>
+what is the date on the top of the document?</s>
+what is the heading of the document?</s>
+what is the page number?</s>
+how many rjr) given in the form?</s>
+what is the total budget?</s>
+to whom this letter was written?</s>
+what is the ship date mentioned?</s>
+what is the date mentioned in the document?</s>
+what is the rjr account number given in the form?</s>
+what is the sample taken?</s>
+how many are there in the form?</s>
+what is the total?</s>
+what is the page number?</s>
+in which factory is the analysis conducted?</s>
+what is the page number?</s>
+what is the name of the company?</s>
+what is the position?</s>
+what is the product name?</s>
+what is the company name?</s>
+who is the marketing person?</s>
+what is the rjrjr"?</s>
+what is the chain id # number?</s>
+what is the date mentioned in the document?</s>
+what is the company name?</s>
+who is the author?</s>
+what is the title in the document?</s>
+what is the title in the document?</s>
+what is the % of pounds in battalion?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the location?</s>
+what is the location?</s>
+what is the title of the document?</s>
+what is the date mentioned in this document?</s>
+what is the date mentioned in this document?</s>
+what is the address?</s>
+what is the name of the department mentioned in the given page?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+who is the chairman?</s>
+what is the page number?</s>
+what is the date on the document?</s>
+what is the x-axis?</s>
+what is the heading of the document?</s>
+what is the heading of the document?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the heading of the document?</s>
+what is the heading of the document?</s>
+what is the page number?</s>
+what is the heading of the document?</s>
+what is the article mentioned in the given page?</s>
+what is the document title?</s>
+what is the second title in the document?</s>
+what is the top of the page?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the year mentioned in the document?</s>
+what is the country?</s>
+what is the page no mentioned in this document?</s>
+what is the name mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the expiration date?</s>
+how many rjr?</s>
+what is the name of the department?</s>
+how many stores are there?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+how many rjr?</s>
+what is the page number?</s>
+what is the name mentioned in the given page?</s>
+which journal is mentioned?</s>
+what is the date on the document?</s>
+what is the status?</s>
+what is the name of the hotel?</s>
+what is the date of issue?</s>
+who is this letter from?</s>
+what is the name of the person?</s>
+to whom is this letter addressed to?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the name of the university mentioned in the application?</s>
+what is the volume?</s>
+what is the title of the document?</s>
+what is the name of the program?</s>
+what is plotted in this document?</s>
+what is the year mentioned?</s>
+which university is mentioned?</s>
+what is plotted in this document?</s>
+which city is mentioned?</s>
+what is the date mentioned in the document?</s>
+what is the schedule at the top of the page?</s>
+what is the name?</s>
+what is the document title?</s>
+who wrote this document?</s>
+what is the expiration date?</s>
+what is the title of the document?</s>
+what is the client name?</s>
+what is the project name?</s>
+what is the email id?</s>
+what is the email id?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what is delivery date?</s>
+what is the page number?</s>
+who has signed the document?</s>
+what is the lunch?</s>
+who wrote this document?</s>
+who is the chairman?</s>
+who has signed the document?</s>
+to whom is the agenda?</s>
+who is the agency?</s>
+what is the first title in the document?</s>
+who is the author?</s>
+what is the name of the university mentioned in the document?</s>
+what is the name of the hotel?</s>
+what is rjr program number?</s>
+what is the first title in the document?</s>
+what is the subject?</s>
+what is the home address given in the document?</s>
+what is the name of the hotel?</s>
+who is the originator?</s>
+what is the second title in the document?</s>
+what is the date?</s>
+what is mentioned?</s>
+what is the page number at top of the page?</s>
+what is the name of heart association?</s>
+who is the author?</s>
+how many pages are scanned?</s>
+who is the chairman?</s>
+who wrote this document?</s>
+what is the name?</s>
+who is mentioned?</s>
+by whom is this document?</s>
+what is the name?</s>
+what is the name?</s>
+who is the author?</s>
+what is the company name?</s>
+what is the table number?</s>
+who wrote this document?</s>
+who wrote this document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+who wrote this document?</s>
+what is the table number?</s>
+what is the brand?</s>
+who is the executive secretary?</s>
+who is the editor?</s>
+how many pages are scanned?</s>
+what is the first title?</s>
+what is the page number?</s>
+what is the document title in the document?</s>
+what does b. stand for?</s>
+what is the table no.?</s>
+what is the volume?</s>
+what is the country?</s>
+what is the table number?</s>
+who wrote this letter?</s>
+what is the schedule at top of the page?</s>
+what is the table number?</s>
+what is the name of heart association?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name mentioned?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+who is this letter from?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number at top of the page?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the date mentioned in the given page?</s>
+what is the date mentioned in the given page?</s>
+what is the name of heart association?</s>
+what is the name of the university mentioned?</s>
+what is the name of?</s>
+what is the city mentioned?</s>
+what is the name of?</s>
+what is the room number?</s>
+who is the moderator?</s>
+who has signed the document?</s>
+to whom is the document?</s>
+what is the?</s>
+who is the sender?</s>
+what is the name of the form?</s>
+what is the name of the company?</s>
+what is the auth. no. mentioned in the given form?</s>
+what is the name of the university mentioned in the given form?</s>
+what is the document title?</s>
+what is the name of the university mentioned in the given form?</s>
+what is the room no. mentioned in the given form?</s>
+what is the name of department mentioned in the given form?</s>
+what is the title of the document?</s>
+what is the name of the tobacco company?</s>
+what is the name of the brand?</s>
+what is the name of company?</s>
+what is the name of the hotel?</s>
+what is the date mentioned?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the figure no.?</s>
+who has signed the document?</s>
+who is the sender of the document?</s>
+what is the auth. no.?</s>
+what is the page number?</s>
+what is the total budget?</s>
+what is the total budget?</s>
+what is the total budget?</s>
+who is the sender of the document?</s>
+what is the total budget?</s>
+what is the company name?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+when is the lunch?</s>
+what is the name of the author of the table?</s>
+what is the title of the document?</s>
+what is the fullform of gm.?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page no mentioned in this document?</s>
+what is the first title in the document?</s>
+what is the position of r. r. s. h. h. h.?</s>
+what is the position of mr. r. h.d.d.?</s>
+what is the position of mr. h. h. h.?</s>
+what is the title of the document?</s>
+what is the position of s. h. b.?</s>
+what is the position of m. r. r. r. h. h. h.?</s>
+what is the designation of s. h. b.?</s>
+when is the lunch?</s>
+when is the lunch?</s>
+what is the name given?</s>
+what is the page number?</s>
+what is the zip code?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the room number?</s>
+who has signed the document?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+mention the title of the document?</s>
+what is the page number?</s>
+who is the sender of the document?</s>
+what is the city?</s>
+what is the order no.?</s>
+what is the city?</s>
+what is the date mentioned in the document?</s>
+what is the company name?</s>
+what is the name of company?</s>
+what is the name of company?</s>
+what is the sheet no.?</s>
+to whom is this letter addressed to?</s>
+what is the name of tobacco company?</s>
+what is the sender of this letter?</s>
+what is the name of heart association?</s>
+what is the date on the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the projected deficits $ for women?</s>
+what is the percentage of revision?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the value of calories per day?</s>
+what is the title of the document?</s>
+what is the percentage of calories?</s>
+what is the table number?</s>
+what is the value of calories per day?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the date mentioned?</s>
+what is the document title?</s>
+who is this letter from?</s>
+what is the date on the document?</s>
+who wrote this letter?</s>
+what is second title in the document?</s>
+who is the president?</s>
+what is the designation of r. c. c. b?</s>
+who is the vice president?</s>
+what is the name of company?</s>
+what is the first title in the document?</s>
+who has signed the document?</s>
+what is the date mentioned in this document?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the page number?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+whom is this document addressed?</s>
+what is the title of the document?</s>
+what is the percentage?</s>
+what is the percentage?</s>
+what is the percentage?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the name mentioned?</s>
+what is the name mentioned?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the title of the graph?</s>
+what is the title of the graph?</s>
+who has signed the document?</s>
+what is the figure number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the table number?</s>
+what is the name of the department?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+who signed the document?</s>
+what is the page number?</s>
+what is the title of the graph?</s>
+what is the employee name?</s>
+what is the name of the company?</s>
+who is the sender of the document?</s>
+to whom is this letter addressed to?</s>
+what is the telephone no given in the document?</s>
+what is the name of the company?</s>
+what is the title of the document?</s>
+what is title in the document?</s>
+what is the title of the document?</s>
+what is the f value of johnson & johnson?</s>
+what is the total budget?</s>
+what is name?</s>
+what is the telephone number?</s>
+what is the document number?</s>
+what is the year mentioned in this document?</s>
+what is the expense for r&d.?</s>
+who is the chairman?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the f value of johnson & johnson?</s>
+what is the title?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the amount of public health association?</s>
+what is the percentage of r&d.?</s>
+what is the percentage of st.d.?</s>
+what is the last name mentioned in the document?</s>
+what is the page number?</s>
+what is the table number?</s>
+what is the date?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+mention the page number?</s>
+what is the rjr program #?</s>
+who is the investigator?</s>
+what is the delivery date?</s>
+what is the page number?</s>
+who is mentioned at the top of the page?</s>
+what is the name of the country mentioned in this document?</s>
+what is the page number?</s>
+what is the title in the document?</s>
+what is the name of the company?</s>
+where is it held?</s>
+what is the date mentioned in the document?</s>
+what is the name?</s>
+what is the name of the tobacco company?</s>
+what is the name of the company?</s>
+who is the author?</s>
+what is the date?</s>
+what is the issued date of conference?</s>
+what are the actual expenditures?</s>
+what is the title of the document?</s>
+what is the standard form no.?</s>
+what is the name of tobacco company?</s>
+what is mentioned at the top right corner of the page?</s>
+which company is mentioned?</s>
+what is the first title in the document?</s>
+what is the heading at the top of the page?</s>
+what is the date mentioned?</s>
+what is the percentage of r&d.?</s>
+what is the heading at the top right corner of the page?</s>
+what is the telephone number?</s>
+what is the company name?</s>
+who is the sender of this letter?</s>
+what is the document title?</s>
+what is the cash income?</s>
+what is the expenses for supplies?</s>
+where is the voucher prepared?</s>
+who is the sender of this letter?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of table?</s>
+who is the addres?</s>
+what is the title of the table?</s>
+what is the date mentioned in this document?</s>
+what is the name of the person in crores)?</s>
+what is the net sales in 2008?</s>
+what is the net income?</s>
+what is plotted in the y-axis?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name at the top of the page?</s>
+what is the email id number?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the time mentioned in this document?</s>
+what is the expenses for salaries?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the name of the author of the person?</s>
+what is the date mentioned in the document?</s>
+what is the title in the document?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the name of company?</s>
+to whom is addressed to?</s>
+what is the page number?</s>
+what is the net income?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+to whom is this letter addressed to?</s>
+what is the company name?</s>
+what is the name?</s>
+what is the name?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the date mentioned in the document?</s>
+what is the name of the association?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+in which association is located?</s>
+what is the title of the document?</s>
+what is the value of pounds in 1969?</s>
+what is the value of net sales for 1982?</s>
+what is the amount mentioned in the given form?</s>
+what is the title of graph?</s>
+what is the title of the document?</s>
+what is the city?</s>
+what is the name of the city?</s>
+what is the standard form no.?</s>
+what is the value of cost per million in 1969?</s>
+what is title of the document?</s>
+what is the page number?</s>
+what is the date mentioned here?</s>
+what is the date?</s>
+what is the amount mentioned in the given form?</s>
+what is the total?</s>
+what is the first title in the document?</s>
+what is the amount mentioned in the voucher?</s>
+to whom is this document addressed?</s>
+who are the author of this document?</s>
+what is the name of the foundation?</s>
+what is the page number?</s>
+what is the payee's account no. given in the voucher?</s>
+in which factory is mentioned here?</s>
+what is the employee name?</s>
+what is the city?</s>
+what is the contract no.?</s>
+what is the cash income for 1989?</s>
+what is the value of birth of johnson as mentioned in the given page?</s>
+what is the total?</s>
+what is the vendor number?</s>
+what is the vendor number?</s>
+what is the fare?</s>
+what is the date?</s>
+what is the amount?</s>
+what is the name of passenger?</s>
+what is the name mentioned?</s>
+what is the title of the document?</s>
+what is heading of the document?</s>
+what is the issued date?</s>
+what is the id mentioned in the document?</s>
+what is the date of birth mentioned in the given page?</s>
+what is the document title?</s>
+what is company name?</s>
+what is the email id mentioned in the document?</s>
+for whom?</s>
+what is the total cost?</s>
+what is the name?</s>
+what is the date?</s>
+what is the date mentioned in this document?</s>
+who is the sender of this document?</s>
+what is given here?</s>
+what is the estimated budget for the year as mentioned in the given page?</s>
+what is the cost for the year 2009?</s>
+what is the average intake of protein?</s>
+what is the city?</s>
+what is the value of new york as mentioned in the given page?</s>
+what is the city?</s>
+what is the emp. no.?</s>
+who wrote this document?</s>
+what is the heading of the document?</s>
+who has signed this document?</s>
+what is the page number?</s>
+when is the meeting?</s>
+what is the net sales in 2008?</s>
+what is the emp. no. mentioned in the given table?</s>
+what is the total income?</s>
+what is the first title in the document?</s>
+what is the name of the university?</s>
+what is the name of the department?</s>
+what is the name of the company?</s>
+what is the name of company?</s>
+what is the name of company?</s>
+what is the department?</s>
+what is the name of company?</s>
+what is the name of the company?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what is the title of the document?</s>
+what is the issued date of the document?</s>
+who is the title of the document?</s>
+who is the author?</s>
+who is the author?</s>
+what is the name mentioned in the given form?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the date mentioned in this document?</s>
+what is the page number?</s>
+what is the name of the department mentioned in the given form?</s>
+what is the order no.?</s>
+what is the total amount mentioned in the given form?</s>
+what is the order no.?</s>
+who is the chairman?</s>
+what is the schedule at the top of the page?</s>
+what is the name mentioned in the given form?</s>
+who is the chairman?</s>
+who is the chairman?</s>
+who is the investigator?</s>
+what is the value for age group 5 years?</s>
+what is the "high" for 1995?</s>
+what is the value for age group 5 years?</s>
+what is the "high" for 1995?</s>
+what is the daily quantity for age group?</s>
+what is the page number?</s>
+what is the quantity for age group?</s>
+what is the "high" value for 1995?</s>
+what is the av. for age group?</s>
+what is the page number?</s>
+what is the name of the company?</s>
+what is the city?</s>
+what is the heading of the document?</s>
+what is the brand mentioned in the form?</s>
+what is the tax?</s>
+what is the distribution drop date?</s>
+what is the name of the project?</s>
+what is the date on the document?</s>
+what is the date mentioned?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the designation of dr.d.?</s>
+what is the designation of dr.d.?</s>
+what time is the meeting?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the name of heart association?</s>
+what is the title of the document?</s>
+what is the name of heart association?</s>
+what is the page number?</s>
+what is the date mentioned in the top of the document?</s>
+what is the name?</s>
+what is the chain id?</s>
+what is the title of the document?</s>
+what is the name of company?</s>
+what is the name?</s>
+what is the city?</s>
+who is the supplier?</s>
+what is quantity?</s>
+what is the expiration date?</s>
+what is the fee?</s>
+what is the title of the document?</s>
+what is the location?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the fax number?</s>
+what is title of the document?</s>
+who is mentioned?</s>
+what is the document title?</s>
+what is the second title in the document?</s>
+what is the name of company?</s>
+who has signed the fax?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the date on the document?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the program name?</s>
+what is the program name?</s>
+what is the title of the document?</s>
+who is the fax from?</s>
+what is the title of the document?</s>
+who is the sender of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the company name?</s>
+what time is scheduled for lunch?</s>
+what is the name?</s>
+what is the name of the hotel?</s>
+what is the title of the document?</s>
+what is the value of fy 1976?</s>
+what is the title of the document?</s>
+what is the location?</s>
+what is the first title in the document?</s>
+what is the date?</s>
+what is the date on the form?</s>
+what is the name of company?</s>
+who has signed this document?</s>
+who has signed this document?</s>
+what is the name?</s>
+what is the second title in the document?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the heading of the document?</s>
+what is the title of the document?</s>
+what is the product name?</s>
+what is the issued date of this letter?</s>
+how much percent is rjr?</s>
+what is the product name?</s>
+what is the page no mentioned in this document?</s>
+what is the name of the university mentioned in the document?</s>
+how many pages are there?</s>
+what is the amount?</s>
+what is the first title in the document?</s>
+how many pages are there?</s>
+what is the first title in the document?</s>
+who wrote this document?</s>
+what is the date mentioned?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the year mentioned?</s>
+what is the page number?</s>
+what is plotted in this document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the table number?</s>
+what is the brand name?</s>
+who is the investigator?</s>
+what is the source?</s>
+what is the total number of 1st march 1993?</s>
+what is the source?</s>
+when is the document dated?</s>
+where is the meeting held?</s>
+what is the fax number?</s>
+what is the telephone number?</s>
+what is the telephone number?</s>
+what is the telephone number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the name of heart association?</s>
+what time is the meeting of meeting?</s>
+what is the name?</s>
+what is the fullform of ltd?</s>
+who wrote this letter?</s>
+what is the title?</s>
+which city is mentioned?</s>
+who is the editor?</s>
+what is the name?</s>
+what is the title?</s>
+what is the name mentioned in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+to whom is this letter addressed to?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name of the association?</s>
+what is the name of the department mentioned in the given form?</s>
+what is the name mentioned in the given page?</s>
+what is the name of university mentioned in the given form?</s>
+to whom this letter was written?</s>
+what is the name of the association?</s>
+to whom is this letter addressed to?</s>
+who is this letter from?</s>
+who is this letter from?</s>
+what is purchase order number?</s>
+what is the table no.?</s>
+to whom is this letter addressed to?</s>
+what is the rjr)?</s>
+what are the heading of the document?</s>
+what is the rjr program number?</s>
+what is the net amount for rjr)?</s>
+what is the net amount for rjr)?</s>
+what is the rjr)?</s>
+what is the title of the document?</s>
+what is the name given in the document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the company name?</s>
+to whom is this letter addressed to?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the name of the company?</s>
+what is the first title in the document?</s>
+what is the invoice number?</s>
+what is the value of potassium mg./100g.) for sample?</s>
+what is the first title in the document?</s>
+what is the first name mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the name of person in heart association?</s>
+what is the start time mentioned in the document?</s>
+what is the source?</s>
+what is the title in the document?</s>
+what is the date mentioned in the document?</s>
+what is the title of the document?</s>
+when is the lunch?</s>
+when is the lunch?</s>
+what is the 1952 u.s.s. farm milk in 1980?</s>
+what is the title of the document?</s>
+what is the budget for supplies?</s>
+what is the value of thousands in 1969?</s>
+what is the budget for supplies?</s>
+what is the year mentioned in the invoice?</s>
+what is the budget for salaries?</s>
+what is the budget for supplies?</s>
+what is the company name?</s>
+what is the budget for 1976?</s>
+what is the name of the university mentioned here?</s>
+what is the address?</s>
+who is the author?</s>
+what is the rjr percentage?</s>
+what is the budget for supplies?</s>
+to whom is this letter addressed to?</s>
+what is the name of the tobacco company?</s>
+what is the box number?</s>
+what is the 1952 u.s.s.s.s. in u.2012?</s>
+who wrote this letter?</s>
+what is the heading of the document?</s>
+where is this letter from?</s>
+what is the zip code?</s>
+what is the value of bread in millions?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the title of the document?</s>
+what is the name of company?</s>
+to be held?</s>
+what is the title of the document?</s>
+what is the name of the moderator mentioned?</s>
+where is the meeting held?</s>
+what is the no. of 1952 u.?</s>
+to whom is this letter addressed to?</s>
+what is the name of the company?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of this document?</s>
+to whom is addressed?</s>
+by whom is this document?</s>
+what is the promotion number?</s>
+when is the lunch?</s>
+what is the document title?</s>
+what is the chain id?</s>
+what is the product name?</s>
+by whom is this document?</s>
+what is the date mentioned in the top of the document?</s>
+what is the date mentioned in the top of the document?</s>
+what is the date mentioned in the document?</s>
+what is the table number?</s>
+by whom is this document?</s>
+what is given here?</s>
+what is the title?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the table number?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+who wrote this letter?</s>
+what is the date mentioned at the top of the page?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is title of the document?</s>
+what is the average intake of calories?</s>
+what is the page number?</s>
+what is the date mentioned in this document?</s>
+what is the average intake of calories?</s>
+what is the name?</s>
+what is the table number?</s>
+what is the expenses?</s>
+what is the title of the document?</s>
+what is the name of table?</s>
+what is the value of fyc?</s>
+what is the date on the document?</s>
+what is the subject?</s>
+what is the average intake of calories?</s>
+what is the page number?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the name?</s>
+who is the investigator?</s>
+when is the?</s>
+what is the date mentioned in the given page?</s>
+what is the page number?</s>
+what is the place?</s>
+what is the date mentioned in the given page?</s>
+what is the name?</s>
+where is it held?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the date mentioned in the document?</s>
+what is the balance as per the document?</s>
+where is the meeting held?</s>
+what is the telephone number?</s>
+what is the address given in the document?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the average for breakfast?</s>
+what is the average for dinner?</s>
+what is the average for breakfast?</s>
+what is the balance as per the document?</s>
+what is the average for dinner?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the time?</s>
+what are the venue for hotel?</s>
+what is the telephone number?</s>
+who is the sender?</s>
+who is the fax?</s>
+what is the title of table?</s>
+what is the fax number?</s>
+how many pages are there?</s>
+what is the room number?</s>
+what is the page number?</s>
+what is the company name?</s>
+mention the percentage of sodium present in crores) for the age group 1.3.3.2012
+what is the percentage of sodium in this document?</s>
+what is the percentage of mrs.3) for the financial year 2009-3.3.2012
+in which state is washington university at?</s>
+what is the page number?</s>
+mention the percentage of sodium present in crores) for the financial year?</s>
+what is the percentage of mrs.3.3.3. for mrs.3.2012
+what time is the lunch?</s>
+what is the title of the document?</s>
+who is the chairman?</s>
+what is the date mentioned in the document?</s>
+what is the second title?</s>
+what is the name of the university?</s>
+what is the name?</s>
+what is the last name?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+when is the letter dated?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the cost?</s>
+what is the fee?</s>
+what is the total expenditure?</s>
+what is the cost?</s>
+what is the title of the document?</s>
+what is the cost?</s>
+what is the cost?</s>
+what is the source?</s>
+what is the source?</s>
+when is the lunch?</s>
+what is the source?</s>
+what is the source?</s>
+when is the lunch?</s>
+what is the date mentioned in this document?</s>
+what is the schedule at the top of the page?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the average intake of b?</s>
+what is the date on the document?</s>
+to whom is this letter addressed to?</s>
+what is the average intake of b?</s>
+what is the expenses for new york?</s>
+what is the total expenditure?</s>
+what is the percentage of b?</s>
+who is the chairman?</s>
+what is the document title?</s>
+what is the title of this document?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the brand name?</s>
+what is the company name?</s>
+when is the document dated?</s>
+what is the first title in the document?</s>
+what is the x-axis?</s>
+what is the title of the document?</s>
+who is the sender of this document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the date mentioned in the document?</s>
+what is the time mentioned in the document?</s>
+who is the investigator?</s>
+what is the name of the company?</s>
+what is the title of the document?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the total number?</s>
+what is the page number?</s>
+what is?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the date on the document?</s>
+what is the account name?</s>
+what is the account number?</s>
+what are the budget for equipment?</s>
+what is the delivery date?</s>
+what is the value of new york?</s>
+what is the total budget mentioned in the given page?</s>
+what is the value of sodium?</s>
+what is the value of sodium?</s>
+what is the total expenditures?</s>
+how much is the rjr?</s>
+which university is mentioned?</s>
+who is the sender of this fax?</s>
+what is the title of the document?</s>
+what is the number at top of the page?</s>
+what is the fax number?</s>
+what is the title of the document?</s>
+what is the telephone number?</s>
+what is the company name?</s>
+what is the first title in the document?</s>
+what is the venue name?</s>
+what is the amount?</s>
+what is the name of company?</s>
+what is the company name?</s>
+what is the name of company?</s>
+what is the venue name?</s>
+what is the name of company?</s>
+what is the telephone number?</s>
+what is the company name?</s>
+what is the vendor number?</s>
+what is the name mentioned in the top of the document?</s>
+what is the page number?</s>
+to whom is this letter addressed to?</s>
+what is the schedule at the time of the time of the time of 10:30?</s>
+what is the total payment?</s>
+what is the total payment?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the schedule at the time of the time of the time of 10:30?</s>
+what is the name of person?</s>
+what is heading of the document?</s>
+what is the venue code?</s>
+what is the total budget?</s>
+what is the schedule at the time of the time of the time of 10:00 p.?</s>
+what is the date on the top of the document?</s>
+what is the name mentioned?</s>
+what is the expiration date?</s>
+what is the telephone number?</s>
+who is the editor?</s>
+what is the telephone number?</s>
+who is the contact person?</s>
+what is the table number?</s>
+what is company name?</s>
+what is the city?</s>
+what is the date of agreement?</s>
+what is the fax number?</s>
+what is the table number?</s>
+what is the date mentioned?</s>
+when is the document dated?</s>
+when is the document dated?</s>
+what is the name of the department?</s>
+what is the title of the document?</s>
+what is the name of the hotel?</s>
+who is this letter from?</s>
+what is this?</s>
+what is the table number?</s>
+what is the total expenditure?</s>
+what is the title of the document?</s>
+what is the name of heart association?</s>
+what is the date mentioned in this document?</s>
+what is the title of the document?</s>
+what is plotted in the x-69?</s>
+who has signed the letter?</s>
+what is the heading of the document?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the page no mentioned in this document?</s>
+what is the percentage of sodium present in this document?</s>
+who is the moderator?</s>
+where is the agenda?</s>
+what is the date mentioned in the given page?</s>
+when is the lunch?</s>
+what is the percentage of sodium present in this document?</s>
+what is the designation of dr.d.?</s>
+where is the program?</s>
+when is the lunch?</s>
+when is the lunch?</s>
+who is the moderator?</s>
+what is the name of the country mentioned?</s>
+where is the agenda?</s>
+how many pages are there?</s>
+how many pages are there?</s>
+what is the name of the hotel?</s>
+what is the title of the document?</s>
+who is the sender?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+by whom is the document?</s>
+by whom?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the second title in the document?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the heading of the document?</s>
+what is the name of the person?</s>
+what is the expenses for salaries?</s>
+what is the first title in the document?</s>
+what is the table no.?</s>
+what is the number at bottom of the page?</s>
+what is the name of the company?</s>
+what is the heading at top of the page?</s>
+what is the male rda* for milk?</s>
+what is the table number?</s>
+what is the average value for milk?</s>
+what is the subject?</s>
+what is the status?</s>
+what is the name?</s>
+how much is the total cost?</s>
+how much is the tax?</s>
+what is the page number?</s>
+what is the division?</s>
+what is the brand?</s>
+what is the chain id?</s>
+what is the first title in the document?</s>
+what is the second title in the document?</s>
+what is the direct costs?</s>
+what is the direct costs?</s>
+what is the direct costs for the year?</s>
+what is the second title in the document?</s>
+what is the second title in the document?</s>
+what is the second title in the document?</s>
+what is the second title in the document?</s>
+who has signed the document?</s>
+who wrote this document?</s>
+what is the date mentioned in the given page?</s>
+what is the date on the document?</s>
+who has signed the document?</s>
+who is the sender of the document?</s>
+what is the company name?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the amount for current budget?</s>
+what is the amount for current budget?</s>
+what is the total budget?</s>
+what is the budget?</s>
+what is the name?</s>
+what is the total budget?</s>
+who wrote this letter?</s>
+what is the company name?</s>
+what is the designation of robert e.d.?</s>
+who is this letter from?</s>
+who wrote this letter?</s>
+what is the invoice number?</s>
+what is the date mentioned in the document?</s>
+what is the tobacco company name?</s>
+what is the name of foundation?</s>
+what is the standard form no.?</s>
+what is the name?</s>
+what is the name?</s>
+what is the total amount?</s>
+what is the percentage of sodium in men?</s>
+what is the factory name?</s>
+what type of document is this?</s>
+what is the name of the university?</s>
+what is mentioned in the document?</s>
+what is the budget bureau no.?</s>
+what is the first title in the document?</s>
+what is the title of table?</s>
+what is the name of the city?</s>
+what is the page no mentioned in this document?</s>
+what is the total budget?</s>
+what is the page no. mentioned?</s>
+what is the page no mentioned in this document?</s>
+what is the page no mentioned in this document?</s>
+what is the document title?</s>
+what is the city?</s>
+in which year robert e. b.s. b. shank?</s>
+what is the name of?</s>
+what is the title of the document?</s>
+what is the total budget?</s>
+when is the document dated?</s>
+what is the title of the document?</s>
+what is the name of company?</s>
+what is the title of the document?</s>
+what is the total expenditures?</s>
+what is title of the document?</s>
+what are the expenses for 1982?</s>
+what is the title of the document?</s>
+what are the expenses for 1982?</s>
+what is the second title in the document?</s>
+what is the total?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the total budget?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is it?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the heading of the table?</s>
+what is this?</s>
+what is the account number?</s>
+what is the name?</s>
+what is the company name?</s>
+what is?</s>
+what is the document title?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the type?</s>
+what is the id?</s>
+what is the tax?</s>
+what is the date mentioned in this document?</s>
+what is the page number?</s>
+what is the name of the department?</s>
+what is the name of the person mentioned?</s>
+what is the date mentioned in the given page?</s>
+who is the author of the publication "b"?</s>
+what is the page no mentioned in this document?</s>
+what is at the top of the page?</s>
+what is the page no mentioned in this document?</s>
+what is the document title?</s>
+what is the page no mentioned in this document?</s>
+what is the potassium mg./100g as mentioned in the given page?</s>
+what is the heading of the document?</s>
+what is the vendor mentioned?</s>
+what is the response code?</s>
+what is the document title?</s>
+what is the date mentioned in the given page?</s>
+what is the date mentioned?</s>
+what is the company name?</s>
+what is the telephone number?</s>
+what is the year mentioned in the given page?</s>
+what is the project name?</s>
+what is the date?</s>
+what is the date?</s>
+what is the company name?</s>
+what is the estimated response?</s>
+what is the phone number?</s>
+which institution is mentioned?</s>
+what is the first title in the document?</s>
+what is the company?</s>
+where was the conference held?</s>
+how many number of "b"?</s>
+what is the expiration date?</s>
+mention the first title in the document?</s>
+what is the cost?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the name?</s>
+what is the page number?</s>
+what is mentioned?</s>
+what is the telephone number?</s>
+who is the author?</s>
+what is the page number?</s>
+what is mentioned?</s>
+what is the zip code?</s>
+what is the author?</s>
+what is the grant amount?</s>
+what is the city?</s>
+what is the total budget?</s>
+what is the address?</s>
+what is the total budget?</s>
+what is the page number?</s>
+what is the third title in the document?</s>
+what is the total budget?</s>
+what is the total budget?</s>
+what is the total budget?</s>
+what is the grant amount?</s>
+what is the author?</s>
+what is the estimated response?</s>
+what is the title of the document?</s>
+what is the invoice number?</s>
+where is the meeting held?</s>
+where is the meeting held?</s>
+when is the meeting held?</s>
+where is the meeting held?</s>
+what is the title?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+where is the meeting held?</s>
+what is the date mentioned in this document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+when is the document dated?</s>
+what is the title of the document?</s>
+what is the expiration date?</s>
+where is the meeting held?</s>
+what is the percentage of c?</s>
+what is plotted in the y-axis?</s>
+what is the title of the document?</s>
+what is the percentage of b?</s>
+what is the percentage of b?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+who is the author of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the name mentioned?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+when is the document dated?</s>
+what is the heading of the document?</s>
+what is the name mentioned?</s>
+what is the title of the table?</s>
+who wrote this letter?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the issued date of this document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what type of documentation is this?</s>
+what is the heading of the document?</s>
+what is plotted in the y-axis?</s>
+what is the title of the document?</s>
+where is the lunch?</s>
+what is the table number?</s>
+what is the telephone number?</s>
+what is the x-axis?</s>
+what does x-axis?</s>
+what is the % of rjrt?</s>
+what type of documentation is this?</s>
+what is the date mentioned at the top of the page?</s>
+what is the subject?</s>
+what is the title of the document?</s>
+how much is the total amount?</s>
+what is the date mentioned in this document?</s>
+what is the title of the document?</s>
+who wrote this letter?</s>
+to whom is this letter addressed to?</s>
+what is the title of the document?</s>
+what is the title of this document?</s>
+what is the name of the university?</s>
+what is the designation of dr. william j.d.?</s>
+what is the title of the document?</s>
+what is the name given?</s>
+what is the full form about?</s>
+what is the heading of the document?</s>
+what is the heading of the document?</s>
+what is the title of the document?</s>
+what is the company name mentioned in this document?</s>
+who is the vice president of research?</s>
+what is the first title in the document?</s>
+what is the heading of the table?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the purchase order number?</s>
+what is the first title in the document?</s>
+what is the second title in the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what type of form is this?</s>
+what is the page number?</s>
+what is the issued date of the document?</s>
+what is the date mentioned in the document?</s>
+what is the royalty product given in the form?</s>
+what is the year-to-date sales of the royalty product?</s>
+what is the value of students?</s>
+what is the amount of 1st quarter check mentioned in the form?</s>
+what is the actual expenditures?</s>
+what is the end date of the royalty product?</s>
+what is the title of the document?</s>
+what is the date mentioned?</s>
+what is the name of memorandum?</s>
+what is the letter number?</s>
+what is the title of the document?</s>
+who is the investigator?</s>
+who is the investigator?</s>
+who is the investigator?</s>
+what is the objective?</s>
+who is the investigator?</s>
+what is the name?</s>
+what is the name?</s>
+what is the fare?</s>
+what is the no.?</s>
+what is the project name?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the total expenses mentioned?</s>
+what is the title mentioned?</s>
+what is the name of the company?</s>
+what is telephone number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the address?</s>
+where is the voucher prepared?</s>
+what is the title of the document?</s>
+what is the date on the document?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+what is the date mentioned in the document?</s>
+what is the date of voucher?</s>
+what is the issued date of the document?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+how much is fee?</s>
+what is the title of the document?</s>
+how much is fee?</s>
+what is the amount of total direct costs?</s>
+what is the date mentioned in this document?</s>
+what is the date mentioned in top of the document?</s>
+what is heading of the document?</s>
+what is the page number?</s>
+how many pages are there?</s>
+what is the second title in the document?</s>
+what is the name?</s>
+what is the name of the university mentioned in the given form?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the quantity?</s>
+what is the name of the person given in the document?</s>
+what is the name of the person?</s>
+who wrote this document?</s>
+who has signed the document?</s>
+who signed the document?</s>
+what is the company name?</s>
+who has signed the document?</s>
+what is the title of the document?</s>
+what is the date at the top of the page?</s>
+who is the chairman?</s>
+what is the name of?</s>
+what is the title?</s>
+what is plotted in this document?</s>
+what is the phone number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name of the foundation?</s>
+what is the title of the document?</s>
+what is the date on the document?</s>
+what is the document about?</s>
+what is the page number?</s>
+what is the date on the document?</s>
+what are the expenses for hotel?</s>
+what is the number at top of the page?</s>
+what is the date mentioned in this document?</s>
+what is the date mentioned at the top of the page?</s>
+what is it?</s>
+what is the second title in the document?</s>
+what is the name?</s>
+what is the document title?</s>
+what is the date on the document?</s>
+what is the name?</s>
+what is the page number?</s>
+to whom this letter is written to?</s>
+what is the purchase order no given in the document?</s>
+to whom is this document addressed?</s>
+what is the effective date mentioned in the document?</s>
+what is the issued date of the document?</s>
+what is the payee name?</s>
+what is the telephone number given in the document?</s>
+what is the first title in the document?</s>
+who is the supplier?</s>
+what is the name of heart association?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the address?</s>
+what is the telephone number?</s>
+what is the document title?</s>
+what is the email id mentioned in this document?</s>
+what is the company name?</s>
+what is the email id?</s>
+what is the name of the university mentioned in the given form?</s>
+what is the date?</s>
+what is the name?</s>
+what is the name?</s>
+what is the name?</s>
+what is the venue name?</s>
+what is the name?</s>
+what is the fee?</s>
+what is the venue name?</s>
+what is the fee?</s>
+who is the author?</s>
+what is the fee?</s>
+what is the total cost?</s>
+who is the author?</s>
+what is the page number?</s>
+what is the expiration date?</s>
+what is the objective?</s>
+what is the document title?</s>
+what is the document title?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the effective date mentioned in the form?</s>
+what is the room number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+who wrote this document?</s>
+what is the second title in the document?</s>
+who is the sender of this document?</s>
+what is the expiration date?</s>
+what is the telephone number?</s>
+what is the telephone number?</s>
+what is the document title?</s>
+what is the royalty payment?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the date on the document?</s>
+what is the telephone number?</s>
+what does this document represent?</s>
+what does this document represent?</s>
+what is the name?</s>
+what is the date of birth?</s>
+what is the source?</s>
+what is the title of the document?</s>
+what is the code mentioned?</s>
+what is the date mentioned in the page?</s>
+what is the percentage?</s>
+what is the company name?</s>
+what is the cost of the product?</s>
+what is the weight?</s>
+what is the percentage?</s>
+what is the date on the document?</s>
+what type of report is this?</s>
+how many pages are scanned?</s>
+how many pages are scanned?</s>
+what is the remote station name?</s>
+what is the transmission report?</s>
+what is the "remote station" for "remote station"?</s>
+what is the issued date of this document?</s>
+what is the issued date of this document?</s>
+who is the sender of the document?</s>
+what is the first title in the document?</s>
+what is the name of the university mentioned in the document?</s>
+what is the table number?</s>
+what is the table number?</s>
+who is the sender of the document?</s>
+who wrote this letter?</s>
+what is the designation of darby?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the document title?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the percentage of rjr)?</s>
+what is the percentage of revision?</s>
+what is the percentage of revision?</s>
+what is the percentage of revision?</s>
+what is the percentage of revision?</s>
+what is the table number?</s>
+what is the second title in the document?</s>
+what is the order no.?</s>
+what is the date mentioned?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the average intake of c?</s>
+what is the % of children?</s>
+what is the name?</s>
+what is the % of children?</s>
+what is the % of children?</s>
+what is the name?</s>
+what is the year mentioned in the document?</s>
+what is the place?</s>
+what is the year mentioned in the document?</s>
+what is the name of the tobacco company?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the name of the company?</s>
+what is the objective?</s>
+how much is the previous year?</s>
+what is the heading of the page?</s>
+what is the first title in the document?</s>
+what is the figure number?</s>
+how much is the year mentioned in the given page?</s>
+what is the box number?</s>
+what is the location?</s>
+what is the date mentioned?</s>
+what is the contract no.?</s>
+what is the box number?</s>
+what is the location?</s>
+what is the title of the graph?</s>
+what type of voucher is given here?</s>
+what is plotted in the x-axis?</s>
+what is plotted in the x-axis?</s>
+what is plotted in the x-axis?</s>
+what is plotted in the y-axis?</s>
+what is the page number?</s>
+what is the form no.?</s>
+what is the brand?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+what is company name?</s>
+what is the title of the document?</s>
+what is the table number?</s>
+what is the email id?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the city mentioned in the given page?</s>
+what is the page number?</s>
+what is the name of the hotel mentioned in the given page?</s>
+what is the date mentioned in the given page?</s>
+what is the price mentioned in the given form?</s>
+what is the price mentioned in the given form?</s>
+what is the social security cost mentioned in the given page?</s>
+what is the date mentioned in the given page?</s>
+what is the name?</s>
+who is the author?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the lunch time?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what type of documentation is this?</s>
+how many number of pages are scanned?</s>
+what is the page number?</s>
+what is the page number?</s>
+how many number of pages are scanned?</s>
+how many number of pages are scanned?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the title of the transmission report?</s>
+what is the page number?</s>
+how much is the previous year?</s>
+what is the account name?</s>
+what is the date on the document?</s>
+what is the subject?</s>
+what is the value of b?</s>
+what is the heading of the document?</s>
+what is the date mentioned in this document?</s>
+what is the document?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+how many members are there?</s>
+how many calories does section?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+how many children?</s>
+what is the brand?</s>
+what is the expiration date?</s>
+what is the table number?</s>
+what is the date on the document?</s>
+what is the title of the document?</s>
+what is the chain id?</s>
+what is the document number?</s>
+what is the name of tobacco company?</s>
+what is the country mentioned?</s>
+what is the heading of the document?</s>
+who wrote this document?</s>
+when is scheduled?</s>
+who wrote this document?</s>
+when is the lunch?</s>
+at what time is lunch?</s>
+when is the lunch?</s>
+when is the lunch?</s>
+who wrote this document?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is the title in the document?</s>
+what is the title of the document?</s>
+what is the value of calories for frances ellenin?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the date mentioned in this document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name of the university?</s>
+what is the telephone number?</s>
+what is the date mentioned in the document?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the name of the foundation?</s>
+how many pages are there?</s>
+what is the title of the document?</s>
+what is the subject?</s>
+what is the program name?</s>
+by whom is this document addressed to?</s>
+what does this document represent?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+who is the vendor?</s>
+what is purchase order number?</s>
+what is the table number?</s>
+what is the title of document?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the table number?</s>
+what is the date mentioned in the document?</s>
+what is the date mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the percentage of share for 2008?</s>
+what is the percentage of 31st march 2011?</s>
+what is the percentage of share for 31st march 2011?</s>
+what is the page number?</s>
+what is the time mentioned in this document?</s>
+what is the date mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the total value mentioned in the document?</s>
+what is the title of the document?</s>
+what?</s>
+what is the title of table?</s>
+what is the percentage of 31st march 2011?</s>
+what is the percentage of 31st march 31st march 2011?</s>
+what is the price for 2008?</s>
+what is the total?</s>
+what is the title of the document?</s>
+what is the amount?</s>
+what is the total budget?</s>
+what is the total budget?</s>
+what is the total budget?</s>
+what is the name of the company</s>
+what is the city?</s>
+what is the name of the company</s>
+what is the name of the company</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the date on the document?</s>
+what is the first title?</s>
+who wrote this letter?</s>
+what is the first title in the document?</s>
+how many pages are there?</s>
+what is the title of the document?</s>
+according to the x-axis?</s>
+what is the date mentioned?</s>
+who is designated as mentioned in the given page?</s>
+what is the date mentioned in this document?</s>
+what is the page number?</s>
+what is the no. of s. s. mentioned in the given page?</s>
+what is the title of this document?</s>
+what is the id?</s>
+what is the email id?</s>
+what is the id?</s>
+when is the document dated?</s>
+what is the date mentioned?</s>
+what is the email id?</s>
+what is the title of the document?</s>
+what is the issued date of the document?</s>
+what is the page number?</s>
+who is the editor?</s>
+what is the company name?</s>
+who is the author?</s>
+how much is the tax?</s>
+what is the telephone number?</s>
+what is the name?</s>
+where is the meeting held?</s>
+what is the effective date?</s>
+when is the document dated?</s>
+how many pages are there?</s>
+what is the company name?</s>
+when is the document dated?</s>
+what is the zip code?</s>
+what is the page number?</s>
+what is the heading of the document?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is issued date of this document?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the telephone number?</s>
+what is plotted in the y-axis?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the average intake of 31st march?</s>
+what is the document title?</s>
+what is the figure number?</s>
+to whom is this letter addressed to?</s>
+what is the first title in the document?</s>
+what is the name of the university mentioned in the top of the document?</s>
+what is the birth date?</s>
+who is the sender of the document?</s>
+what is the percentage of revision?</s>
+what is the percentage of rjr)?</s>
+what is the percentage of rjr)?</s>
+what is the percentage of rjr?</s>
+what is the percentage of rjr?</s>
+what is the second title in the document?</s>
+what is the percentage of rjr) for fy.?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the second title in the document?</s>
+what is the issued date of this document?</s>
+what is the balance as on 31st march 2011?</s>
+what is the issued date of this document?</s>
+what is the title of the document?</s>
+what is the profit before tax for the year 2011?</s>
+how much is the total?</s>
+what is the previous year mentioned in the document?</s>
+what is the profit before tax for the year 2011?</s>
+what is the first title in the document?</s>
+what is the profit before tax?</s>
+how much is the total expenditures?</s>
+what is the title of the document?</s>
+what is the total income?</s>
+how much is the total amount?</s>
+what is the table number?</s>
+what is the value of johnson in the year 2011?</s>
+what is the percentage of s.2012?</s>
+what is the salary for the year 2011?</s>
+what is the value of johnson in crores)?</s>
+what is the value of rjr?</s>
+who is the author of this document?</s>
+what is the value of rjr?</s>
+who wrote this document?</s>
+who wrote this document?</s>
+what is the year mentioned in the document?</s>
+who signed the document?</s>
+what is the year mentioned in the document?</s>
+what is the year mentioned in the document?</s>
+what is the page number?</s>
+what is the year mentioned in the document?</s>
+what is the page number?</s>
+what is the rate for 2008?</s>
+what is the year mentioned in the document?</s>
+who wrote this document?</s>
+what is the table number?</s>
+what is the percentage of revision for 1995?</s>
+what is the first title in the table?</s>
+what is the page number?</s>
+what are the expenses for lunch?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+what is the date mentioned in the document?</s>
+what is the title of the document?</s>
+at what time is budget?</s>
+what is the name of the applicant?</s>
+how many members are there?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the fullform of c.03.2012?</s>
+what is the date mentioned at the top of the page?</s>
+what is the company name?</s>
+what is the first title in the document?</s>
+how many directors are there for the financial year?</s>
+what is the fullform of mrs. mr. c. b. bse?</s>
+what is the title of the document?</s>
+on which date, the financial year ended march, 1982?</s>
+what is the title of the document?</s>
+what is the table number?</s>
+what is the budget for the year 1973?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+what is the title of the document?</s>
+what is the estimated budget for the year?</s>
+how much percentage of rjr was used for current year?</s>
+which company is mentioned?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is the table no.?</s>
+what is this document?</s>
+what is the date mentioned in the document?</s>
+mention the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the table number?</s>
+what is the name of the association?</s>
+what is the page number?</s>
+what is the date mentioned?</s>
+what is the title of the table?</s>
+what is the title in the document?</s>
+what is the page number?</s>
+what is the name of heart association?</s>
+what is the page number?</s>
+what is the percentage of share in 31st march 31st march 1993?</s>
+what is the percentage of equity shares held by the year ended 31.3.2012?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is plotted in the graph?</s>
+when is the document dated?</s>
+what is plotted in the graph?</s>
+what is the title in the document?</s>
+what is the ph value for 1995?</s>
+what is the title in the document?</s>
+what is the title in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the projected deficits $ for personnel?</s>
+what is the mean value for 1995?</s>
+what is the ph value for 1995?</s>
+what is the title of the document?</s>
+what is the product name?</s>
+what is the product name?</s>
+what is the product name?</s>
+what is the product name?</s>
+to whom is this letter addressed to?</s>
+what is the title of the document?</s>
+what is written at the top of the page?</s>
+what is the document number?</s>
+what is the name?</s>
+what is the name?</s>
+what is the second title in the table?</s>
+what is the title in the document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the name of company?</s>
+what is the value of "date sales"?</s>
+what is the value of "remote station"?</s>
+how much is the net income as on 31st march 2011?</s>
+what is the document title in the document?</s>
+what is the date mentioned?</s>
+when is the letter dated?</s>
+what is the title in the document?</s>
+what is the second title in the document?</s>
+what is the population in age group?</s>
+who wrote this letter?</s>
+what is the table no.?</s>
+who is the editor?</s>
+what is the page number?</s>
+how much is the percentage of 31st march 31st march 31st march 2011?</s>
+how much is the percentage of 31st march 31st march 31st march 2011?</s>
+how much is the percentage of 31st march 31st march 31st march 31st march 31st march
+what is the first title in the document?</s>
+how much is the percentage of 31st march 31st march 31st march 2011?</s>
+what is the title of the document?</s>
+how much is the profit before tax?</s>
+how much is the 31st march 31st march 31st march march 31.3.2012?</s>
+what is the name of tobacco company?</s>
+what is the first title in the document?</s>
+what is the title of the table?</s>
+what is the document title?</s>
+what is the name of the university mentioned in the given form?</s>
+what is the employee name?</s>
+what is the percent per account of frances ellen brock?</s>
+what is the emp. no.?</s>
+what is the date mentioned in the given page?</s>
+what is the percent per account of frances ellen brock?</s>
+what is the document about?</s>
+what is the date on the document?</s>
+what is the document title?</s>
+what is the percentage of johnson & johnson?</s>
+what is the percentage of shares held by 31st march 31st march 2007?</s>
+which company is at the top of the page?</s>
+what report is given here?</s>
+what is the designation of mr. h. h. b.?</s>
+who wrote this letter?</s>
+who wrote this letter?</s>
+what is the date mentioned in the given page?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the percentage of shares held on 31/03/03/30/30/2012?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+how many % of how much should be banned?</s>
+how many % of how much milk?</s>
+how many % of how much milk?</s>
+what is the full form of johnson &?</s>
+what is the value of 31st march 2011?</s>
+how much should be provided?</s>
+what is the revenue for the year?</s>
+what is the value of johnson & johnson?</s>
+what is the revenue for the year 2011?</s>
+how many % of how much milk?</s>
+what is the value of johnson & johnson & year ended 31.03.2012?</s>
+what is the title of the document?</s>
+what is the subject?</s>
+when is the document dated?</s>
+what is the title of the document?</s>
+what is the title of table?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the name of the department mentioned in the given page?</s>
+what is the name of the association?</s>
+what is the amount of equity share for the year 2010 for the year ended 31st march, 2009?
+what is the table number?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is the balance in the year 1973?</s>
+what is the balance as per the document?</s>
+what is the budget for the year?</s>
+how many calories does the x-axis of the graph?</s>
+how many % of men are there?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the date on the document?</s>
+what is the name?</s>
+what is the amount of total as per the document?</s>
+what is the table number?</s>
+what is the name of heart association?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the email id?</s>
+what is the figure number?</s>
+what is the x-axis?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the state?</s>
+what is the time?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the phone number?</s>
+what is the phone number?</s>
+who is mentioned in the document?</s>
+what is the page number?</s>
+what is the time?</s>
+who is the chairman?</s>
+what is the name of the department mentioned in the given page?</s>
+heading of the graph represent?</s>
+what is first title in the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the total cost?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the sku?</s>
+what is the brand?</s>
+what is the amount mentioned?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the value of children in men?</s>
+what is the value of bread in breakfast?</s>
+what is the page number?</s>
+what is the page number?</s>
+who is the memorandum from?</s>
+what is the table number?</s>
+what is the name of the committee mentioned?</s>
+what is the heading of the document?</s>
+what is the amount for direct costs as mentioned in the given page?</s>
+what is the heading of the document?</s>
+what is the amount for direct costs as mentioned in the given page?</s>
+what is the total direct costs?</s>
+who wrote this letter?</s>
+who has signed the document?</s>
+what is the first title in the document?</s>
+what is the subject of the document?</s>
+what is the name of american heart association?</s>
+what is the amount for direct costs?</s>
+what is the title of the document?</s>
+what is the title in the document?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the city name?</s>
+what is the table no.?</s>
+what is title of the document?</s>
+what is the document title?</s>
+what is the name mentioned in the given page?</s>
+what is the page no mentioned in the given page?</s>
+what is the date mentioned in the document?</s>
+what is the year mentioned?</s>
+what is the second title in the document?</s>
+what is the first name?</s>
+what is the heading of the document?</s>
+in which city is washington university?</s>
+what is the title of the document?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the fullform of r.d.?</s>
+what is the department?</s>
+what is the projected deficits $?</s>
+what is the title of table?</s>
+what is the title of table?</s>
+what is the title of table?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+who is the editor?</s>
+what is the page number?</s>
+what is the country?</s>
+what type of form is this?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the box number?</s>
+what is the percentage?</s>
+what is the percentage?</s>
+what type of form is this?</s>
+what is the percentage?</s>
+what is the vendor name?</s>
+what is the name of company?</s>
+what is the total amount?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the table number?</s>
+what is the name?</s>
+what is the title of the graph?</s>
+what is the letter dated?</s>
+what is plotted in the y-axis?</s>
+what is the name mentioned?</s>
+what is the total amount?</s>
+what is the box number?</s>
+what is the total amount?</s>
+what is the form no.?</s>
+what is the invoice number?</s>
+what is the name of the person?</s>
+what is the name?</s>
+what is the designation of dr. william j. h. shank?</s>
+what is the order number?</s>
+who is the author?</s>
+what is the description?</s>
+what is the name?</s>
+what is the source?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the schedule at the top of the page?</s>
+what is the title of the document?</s>
+how much is the description of sodium?</s>
+what is the page number?</s>
+who wrote this letter?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the document about?</s>
+what is the name of brand?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+who is this letter from?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+when is the document dated?</s>
+what is the title of the document?</s>
+when is the lunch?</s>
+to whom is this letter addressed to?</s>
+what is plotted in page?</s>
+what is the av. sodium in 1980?</s>
+what is the average intake of sugar in 1980?</s>
+who is the sender of this letter?</s>
+what is the location?</s>
+what is the estimated budget?</s>
+what is the estimated budget?</s>
+what is the direct costs?</s>
+what is the title of the document?</s>
+what is the designation of robert e.?</s>
+who has signed the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the total?</s>
+what is the page number?</s>
+what is the page number?</s>
+to whom is this letter addressed to?</s>
+what is the first title in the document?</s>
+what is the name of program?</s>
+what is the first title in the document?</s>
+what is the title in the document?</s>
+what analysis is this?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+when is the document dated?</s>
+what is the date on the document?</s>
+what is the total expenditures?</s>
+when is the document dated?</s>
+who signed the document?</s>
+what is the total expenditures?</s>
+when is the lunch?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+to whom is this letter addressed to?</s>
+where is the meeting held?</s>
+to whom is this letter addressed to?</s>
+what is the page number?</s>
+what is the total?</s>
+what is the name mentioned?</s>
+what is the page number?</s>
+what is the amount mentioned?</s>
+what is the date mentioned in top of the document?</s>
+mention the name?</s>
+what is the date mentioned in the document?</s>
+what is the time?</s>
+what is the position?</s>
+where will the program be held?</s>
+what is the number?</s>
+what is the subject?</s>
+at what time, what time?</s>
+what is the report about?</s>
+where is the break?</s>
+what is the total assets in 2011?</s>
+who wrote this document?</s>
+what is the date on the document?</s>
+mention the y-axis?</s>
+how many calories does y-axis?</s>
+how many men are there?</s>
+mention the x-axis?</s>
+what does y-axis?</s>
+how many men are shown?</s>
+who has signed the document?</s>
+who is the editor?</s>
+who is the chairman?</s>
+what is the total expenditures?</s>
+what is the telephone number?</s>
+what does x-axis?</s>
+what is the date on the document?</s>
+what is the telephone number?</s>
+what form is this?</s>
+what is the company name?</s>
+how many are there?</s>
+what is the page number?</s>
+how many pages are there?</s>
+what is the date?</s>
+what type of document is this?</s>
+what is the fullform of mrs.?</s>
+what is the page number?</s>
+what type of voucher is this?</s>
+who wrote this letter?</s>
+what is the name of the person?</s>
+what is the period?</s>
+what is the type?</s>
+what is the address given in the voucher?</s>
+by whom?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the date mentioned in the form?</s>
+what is the program name?</s>
+what is the document title?</s>
+what is the birth date?</s>
+what is the name mentioned?</s>
+what is the page number?</s>
+what is the date mentioned in the given page?</s>
+what is the first title in the document?</s>
+what is the cash income for 31st march 31, 2007?</s>
+what is the date mentioned in the voucher?</s>
+what is the expense?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the expense?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the date on the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is plotted in the graph?</s>
+what is plotted in the graph?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the number given at the top of the page?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the client's name given in the table?</s>
+what is the name of the author?</s>
+what is the table number?</s>
+what is the title of table?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the name mentioned at the top of the page?</s>
+what is the name of the university mentioned in the given page?</s>
+what is the first title in the document?</s>
+what is the emp. no.?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+which company is mentioned?</s>
+which company is mentioned?</s>
+what is the company name?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the title of the document?</s>
+what is the heading of the table?</s>
+what is the issued date of the check?</s>
+what is the heading at the top of the page?</s>
+what is the y axis of the graph?</s>
+when is the document dated?</s>
+what is the title of the document?</s>
+what is the heading of the table?</s>
+what is the title of the document?</s>
+when is the document dated?</s>
+what is the product name?</s>
+what is the amount mentioned?</s>
+what type of voucher is this?</s>
+what is the date mentioned in the top of the document?</s>
+what is the vendor number?</s>
+what is the page number?</s>
+when is the document dated?</s>
+when is the document dated?</s>
+what is at bottom of the page?</s>
+what is at bottom of the page?</s>
+what is the year mentioned in this document?</s>
+what is the invoice no.?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the title of the table?</s>
+what is the page no mentioned in this document?</s>
+what is the company name?</s>
+what is the page no mentioned in this document?</s>
+what is the "start time"?</s>
+what is the actual income for medicare allowance for 1982?</s>
+what is the actual income for equipment as mentioned in the given page?</s>
+what is the second title in the document?</s>
+what is the actual income for miscellaneous for 1982?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the actual actual income for medicare allowance for 1982?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the schedule at the top of the page?</s>
+what is the date on the document?</s>
+what is the no. of johnson as mentioned in the given page?</s>
+what is the full form of johnson as mentioned in the given page?</s>
+what is the issued date of this document?</s>
+what is the no. of johnson as mentioned in the given page?</s>
+what is the name of the person as mentioned in the given page?</s>
+what is the fax number?</s>
+who is mentioned in this document?</s>
+who is the sender of the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the actual income for equipment as mentioned in the given page?</s>
+what is the title of the document?</s>
+what is the date mentioned in the given page?</s>
+what is the second title in the document?</s>
+what is the first title in the document?</s>
+what is the name?</s>
+from whom is this document?</s>
+what is the schedule at the top of the page?</s>
+what is the "remote station"?</s>
+what?</s>
+what is the duration?</s>
+what is the title of the document?</s>
+what is the id?</s>
+what is the second title in the document?</s>
+what is the subject?</s>
+what is the date mentioned in this document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the second title in the document?</s>
+what is the document title?</s>
+in which factory is the analysis conducted?</s>
+what is the name?</s>
+what is the number?</s>
+what is the first title in the document?</s>
+what is the document title?</s>
+what is the first title in the document?</s>
+what is the title?</s>
+what heading of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the first title in the document?</s>
+what is the title?</s>
+what is the title of the document?</s>
+what is the title?</s>
+what is the page number?</s>
+what is the title?</s>
+what is the title of the document?</s>
+what is the title?</s>
+what is the title of the document?</s>
+what is the source?</s>
+what is the fullform of rjr) as at the top of the page?</s>
+what is the title of the document?</s>
+what is the title?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+how many are there at the top right corner of the page?</s>
+how many pages are there for the financial year?</s>
+what is the date mentioned?</s>
+what is the name of the hotel?</s>
+what is the product name?</s>
+how many pages are there?</s>
+to whom is this letter addressed to?</s>
+what is this?</s>
+how many pages are there?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the brand?</s>
+what is the name?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is telephone number?</s>
+what is the title of the document?</s>
+what is the product name?</s>
+what is the name?</s>
+what is the name of the company?</s>
+how many are there?</s>
+how many are there?</s>
+who wrote this letter?</s>
+what is the name?</s>
+what is?</s>
+what are there?</s>
+what is the date mentioned in the document?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the date mentioned?</s>
+what is the designation?</s>
+who wrote this document?</s>
+what is the date mentioned?</s>
+what is the title of the document?</s>
+what is the response code?</s>
+what is the project name?</s>
+what is the rjr brand?</s>
+what is the title of the document?</s>
+what is the rjr program #?</s>
+what is the fax number?</s>
+what is the rjr program #?</s>
+what is the company name?</s>
+what is the expiration date?</s>
+what is the name?</s>
+what sheet is this?</s>
+what is the company name?</s>
+to whom is this fax addressed to?</s>
+who is this fax from?</s>
+what is the fax number?</s>
+what is the company name?</s>
+what is the total budget?</s>
+what is the budget for june 30 years?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the fax number?</s>
+what is the invoice date?</s>
+what is the email id?</s>
+what is the first title in the document?</s>
+what is the table number?</s>
+what is the fax number?</s>
+what is the table number?</s>
+what is the chain id?</s>
+what is the email id?</s>
+what is the table number?</s>
+what is the invoice date?</s>
+what is the email id?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the total number of 1975?</s>
+what are the table number?</s>
+what is the total number of 1975?</s>
+what is the subject?</s>
+what is the subject?</s>
+what is the page number?</s>
+what is the city?</s>
+what is the date mentioned?</s>
+what is the document title?</s>
+what is the subject?</s>
+what is the name of the university mentioned here?</s>
+what is the telephone number?</s>
+what is the exhibit number?</s>
+what is the net income?</s>
+what is the av. no.?</s>
+what is the profit before tax?</s>
+what is the profit before tax?</s>
+when is the lunch?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the last name?</s>
+what is plotted in the top of the document?</s>
+what is the no. for miscellaneous for 2007?</s>
+what is the name of the university mentioned in the given letterhead?</s>
+what is the page number?</s>
+what is the total attend. for miscellaneous for 2007?</s>
+what is the company name given in the table?</s>
+what is the date mentioned in the given page?</s>
+what is the title of the document?</s>
+what is the name of 31st march, 2009?</s>
+what is the name of the full form?</s>
+what is the number at top of the page?</s>
+what is the table number?</s>
+what is the potassium mg./100g.) present in men?</s>
+what is the av. sodium in milk?</s>
+what is the name of heart association?</s>
+what is the percentage of raw materials in crores)?</s>
+what is the percentage of raw materials mentioned in the first table?</s>
+what is the av. sodium in men?</s>
+what is the date mentioned?</s>
+what is the first title in the document?</s>
+what is first title in the document?</s>
+how much percentage of 31st march 31st march 31st march 31st march 31 - 31.3
+how many number of sodium is shown in this document?</s>
+what is the name of heart association?</s>
+what is the document title?</s>
+what is the second title in the document?</s>
+what is the second title in the document?</s>
+what is the title of the document?</s>
+what is the value of students?</s>
+what is the last name?</s>
+what is the order no.?</s>
+what is the table number?</s>
+who is the editor?</s>
+what is the table number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the table number?</s>
+where is the strategic publications development meeting?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what is the number at top of the page?</s>
+what is the brand?</s>
+what is the title of the document?</s>
+what is the fee mentioned in the document?</s>
+what is the first name mentioned in the form?</s>
+what is the name?</s>
+what is the telephone number?</s>
+what is the fee?</s>
+what is the title of the document?</s>
+how much is the date mentioned here?</s>
+what is the date?</s>
+what is the total assets for the year 2011?</s>
+what is the net sales for the year 2011?</s>
+what is the title of the document?</s>
+what is the heading of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is plotted in y-axis?</s>
+how much % of ltd?</s>
+what is the page number?</s>
+what is the percentage of revision?</s>
+how much percentage of how much should be banned?</s>
+in which state is conducted?</s>
+what is the date mentioned at the top of the page?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the av. sodium in men?</s>
+what is the title of the document?</s>
+when is the letter dated?</s>
+what is the total budget?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+who wrote this letter?</s>
+what is the name of the company?</s>
+what is the total % of calories?</s>
+what is the total value of calories?</s>
+what is the % of calories?</s>
+what is the average value of calories?</s>
+what is the % of total calories?</s>
+what is the % of total calories?</s>
+what is the no. of calories?</s>
+what is the amount of calories?</s>
+what is the total value of calories?</s>
+what is the total no.?</s>
+what is the document title?</s>
+what is the document title?</s>
+what is the title of the graph?</s>
+what is the value for b?</s>
+what is the document title?</s>
+what is the x-axis?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the title of graph?</s>
+what is the name?</s>
+what is the name?</s>
+what is the heading?</s>
+how many pages are there?</s>
+how many pages are there?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the total cost?</s>
+who has signed the document?</s>
+what is the title of the document?</s>
+what is the scn?</s>
+what is the page number?</s>
+what is the cost of the product?</s>
+how?</s>
+how?</s>
+what is the total calories?</s>
+what is the subject?</s>
+according to epa stand for?</s>
+what is the title of the document?</s>
+how many are there?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+mention the heading given at the top of the page?</s>
+what is the "duration" for "remote station" given to 31/2012"?</s>
+what is the figure number?</s>
+what is the page number?</s>
+what is the figure number?</s>
+what is the figure number?</s>
+what is the figure number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the value of bread in breakfast?</s>
+what is the value of johnson in 1980?</s>
+what is number at top of the page?</s>
+what is the page number at top of the page?</s>
+what is the number at top of the page?</s>
+what is the page number at top of the page?</s>
+what is the number at top of the page?</s>
+what is the payee's name?</s>
+what is the payee's name given in the form?</s>
+what is the payee name?</s>
+what is the page number at top of the page?</s>
+what is the name of the university mentioned in the given form?</s>
+what is the page number at top of the page?</s>
+what is the date mentioned in the form?</s>
+how much is the direct costs?</s>
+what is the total direct costs mentioned?</s>
+what is the date?</s>
+what is the payee's name?</s>
+what is the date mentioned in the given page?</s>
+what is the fare?</s>
+what is the page number?</s>
+what is the date on the document?</s>
+what is the invoice number?</s>
+what is the percent per account number?</s>
+what is the price mentioned in the given form?</s>
+what is the purchase order number?</s>
+who signed the document?</s>
+who has signed the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the amount?</s>
+what is the title of the document?</s>
+what is the price mentioned for rjr)?</s>
+what is the total amount?</s>
+what is the department?</s>
+what is the department?</s>
+what is the department?</s>
+what is the state?</s>
+what is the department?</s>
+what is department?</s>
+what is the name of the department?</s>
+what is the date of birth?</s>
+what is the department?</s>
+what is the name of the department?</s>
+what is the department?</s>
+what is the name of the applicant?</s>
+what is the name of the city mentioned in the application?</s>
+what is the company name?</s>
+in which state is mentioned in the application?</s>
+in which state is mentioned in the application?</s>
+who is the editor?</s>
+what is the email id?</s>
+what is purchase order no.?</s>
+what is the title of the document?</s>
+what is the name?</s>
+what is the employee name?</s>
+what is the title of the document?</s>
+which year is mentioned?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the source?</s>
+what is the average intake of men?</s>
+what is the average intake of milk?</s>
+what is the total % of men?</s>
+what is the average intake of milk?</s>
+what is the country?</s>
+what is the ph value for age group?</s>
+what is the ph value for women?</s>
+what is the value for women?</s>
+what is the value for women?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the average intake of calories?</s>
+what is the table number?</s>
+what is it?</s>
+what is the product name?</s>
+what is the second title in the document?</s>
+what is the name mentioned?</s>
+what is the subject?</s>
+what is the page number?</s>
+what is the second title in the document?</s>
+what is the page number?</s>
+how many number of students?</s>
+how many men are there?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name of project?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the date mentioned in the document?</s>
+what is the name of the conference?</s>
+what is the name of the company?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+how much should be provided?</s>
+what is the figure number?</s>
+what is the figure number?</s>
+mention the x-axis?</s>
+what is the x-axis?</s>
+who is the sender?</s>
+what is the first title in the document?</s>
+what is the title of the graph?</s>
+what is the document title?</s>
+what is the title of the graph?</s>
+what is the code?</s>
+what is the value of johnson & johnson?</s>
+what is the year mentioned in the given page?</s>
+what is the year mentioned in the given page?</s>
+what is the year mentioned in the given page?</s>
+what is the name of product?</s>
+what is the second title in the document?</s>
+what is the phone?</s>
+what is the av. sodium in men?</s>
+what is the phone?</s>
+what is the top of the page?</s>
+what is the fax number?</s>
+what is the first title in the document?</s>
+to whom is this letter addressed?</s>
+what is the date on the document?</s>
+what is the table number?</s>
+what is the response code?</s>
+what is the heading of the table?</s>
+what is the heading of the table?</s>
+what is the page number?</s>
+what is the project name?</s>
+what is the subject?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+how much did rjrt?</s>
+what is the figure number?</s>
+what is the table number?</s>
+what is plotted in the bottom of the page?</s>
+what is the figure number?</s>
+how much is rjr brand?</s>
+what is the expiration date?</s>
+what is plotted in the x-axis?</s>
+what is plotted in the top of the page?</s>
+what is the rjr brand?</s>
+what is plotted in the top of the page?</s>
+what is the figure number?</s>
+what is the page number?</s>
+what is the account no. mentioned in the given form?</s>
+what is the name of principal investigator as mentioned in the given form?</s>
+what is the due date mentioned in the given form?</s>
+what is the amount mentioned for the given form?</s>
+whom is this document addressed?</s>
+what is the date mentioned?</s>
+what is the code?</s>
+what is the page number?</s>
+what is the name of company?</s>
+what is the second title in the document?</s>
+what is the company name?</s>
+what is the f value of johnson & johnson?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is plotted in this document?</s>
+what is plotted in this document?</s>
+what is plotted in this document?</s>
+what is plotted in this document?</s>
+the heading of this document?</s>
+what is the total number of chicken?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+who is the sender of the document?</s>
+what is the total budget?</s>
+what is the expenses?</s>
+what is the title of the form?</s>
+what is the expenses for conference?</s>
+what is rjr brand?</s>
+what is the telephone number given in the document?</s>
+what is the rjr brand?</s>
+what is the rjr brand?</s>
+to whom this letter was written?</s>
+what is the name of the form?</s>
+what is the city?</s>
+what is the date of issue?</s>
+to whom this letter is addressed to?</s>
+what is the page no.?</s>
+what is the subject mentioned?</s>
+what is the name of the committee mentioned?</s>
+what is the document title?</s>
+what is the value of rjrt?</s>
+what is the telephone number given in the document?</s>
+what is the telephone number given in the document?</s>
+at what time is total expenses?</s>
+what is the expenses for conference?</s>
+what is the expenses?</s>
+what is the title of the document?</s>
+what is the number?</s>
+what is the y-axis?</s>
+what is the title of the document?</s>
+who wrote this document?</s>
+what is the balance as per the document?</s>
+what is the balance as per the document?</s>
+what is the heading of the table?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the date mentioned in this document?</s>
+how much is the price per day?</s>
+how much is the total value for winston?</s>
+how much is the total assets in 2010?</s>
+what is the name of the product?</s>
+what is the second title in the document?</s>
+what is the name?</s>
+what is the name of the department?</s>
+what is the title of the document?</s>
+what is the name of the program?</s>
+what is the company name?</s>
+what is the name of the department?</s>
+who is the sender of the report?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the fee?</s>
+what is the value of revision for 1995?</s>
+to whom this letter is written?</s>
+what is plotted in the ytd?</s>
+what is rjr?</s>
+what is the table number?</s>
+what is the total budget?</s>
+what is the budget for the year budget?</s>
+what is the due date?</s>
+what is the projected deficits $ for year?</s>
+what is the projected deficits $ for year?</s>
+what is the projected deficits $ for year?</s>
+what is the estimated budget for the year?</s>
+what is the projected deficits $ for year?</s>
+what is the projected deficits $ for year?</s>
+what is the name of heart association?</s>
+what is the name of heart association?</s>
+what is the no. of sodium in table?</s>
+what is the program name?</s>
+what is the second title in the document?</s>
+what is the no. of revision?</s>
+what is phone number?</s>
+what is the value of sodium in crores)?</s>
+what is the company name?</s>
+what is the figure no.?</s>
+what is the figure number?</s>
+what is the page number?</s>
+what is the company name?</s>
+what is the name?</s>
+who has signed the document?</s>
+what is the company name?</s>
+what is the value of budget mentioned in the given page?</s>
+what is the value of sodium in the year 1972?</s>
+what is the value of sodium in the year 1972?</s>
+what is the title of the document?</s>
+what is the project name?</s>
+how many rjr?</s>
+what is rjr brand?</s>
+what is the city?</s>
+what is rjr?</s>
+what is purchase order number?</s>
+what is the date mentioned in this document?</s>
+what is the fax number?</s>
+what is the date mentioned here?</s>
+what heading of the document?</s>
+what is the value of marc?</s>
+what is the date on the document?</s>
+what is the title of the document?</s>
+what is the % increase in the document?</s>
+what is the heading given?</s>
+mention the page number?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+how much is the "remote station" for"?</s>
+how much is the financial year?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+heading of the x-axis of the graph?</s>
+heading of the graph represent?</s>
+what is the figure number?</s>
+what is the figure number?</s>
+what is the figure number?</s>
+mention the "start time" for "remote station"?</s>
+what is the document title?</s>
+what is the period?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the date?</s>
+mention the heading given?</s>
+what is the date?</s>
+what is the city?</s>
+how much is the fare?</s>
+what is the total amount mentioned in the document?</s>
+how much is the fare?</s>
+what is purchase order no.?</s>
+what is the date mentioned in the document?</s>
+to whom this letter was written?</s>
+what is plotted in the x-axis?</s>
+to whom this letter was written?</s>
+what is the total?</s>
+what is the total amount?</s>
+to whom this letter was written?</s>
+who wrote this letter?</s>
+what is the fare?</s>
+to whom this letter was written?</s>
+who wrote this letter?</s>
+what is the table number?</s>
+to whom this letter was written?</s>
+to whom this letter was written?</s>
+what is the title in the document?</s>
+who wrote this document?</s>
+what is the first title in the document?</s>
+what is the date mentioned at the top of the page?</s>
+what is the balance as on 31st march 31st march 31st march 2011?</s>
+what is the table number?</s>
+what type of voucher is given here?</s>
+what is the percentage of direct costs mentioned in the document?</s>
+what is the table number?</s>
+what is the name?</s>
+what is the balance as on 31st march 31st march 31st march 31, 1982?</s>
+how much is the balance as per the document?</s>
+how much is the balance as per the document?</s>
+how much is the rate mentioned in the document?</s>
+what is the balance as on 31st march 2011?</s>
+to whom is this letter addressed to?</s>
+what is the date on the document?</s>
+what is the number examined in the given page?</s>
+what are the expenses for expenses?</s>
+what are the expenses for dinner?</s>
+what are the expenses for dinner?</s>
+what is the name of the hotel?</s>
+what is the location?</s>
+what is the account no.?</s>
+what is the telephone number?</s>
+what is the date mentioned?</s>
+what is the item no.?</s>
+who has signed the document?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the no. of children in breakfast?</s>
+what is the table number?</s>
+what is the title of the document?</s>
+what is the total amount?</s>
+what is the document title?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+mention the source?</s>
+how much percent is it?</s>
+what is the title of the document?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the document title?</s>
+what is the name of heart association?</s>
+what is the total amount?</s>
+what is the name of american heart association?</s>
+what is the item number?</s>
+what is the full form?</s>
+whom is this letter addressed?</s>
+what is the heading?</s>
+what is the american heart association?</s>
+what is the balance as on 31st march 31st march 31st march, 2011?</s>
+what is the page number?</s>
+what is the heading?</s>
+what is the date mentioned in the document?</s>
+what is the first title in the document?</s>
+what is the title of the document?</s>
+how much is mentioned at the top corner of the page?</s>
+what is the street address?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the title?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the name?</s>
+what is the department?</s>
+what is the page number?</s>
+what is the last name?</s>
+on which date is mentioned at the top right corner of the page?</s>
+how much is rjr)?</s>
+what is the balance as on this document?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the cost per million value for winston?</s>
+what is the percentage of sample?</s>
+how much percentage of rjr?</s>
+what is the ph value shown in this document?</s>
+what percentage of rjr?</s>
+what is the document title?</s>
+what is the title of the document?</s>
+what is the ph value shown in this document?</s>
+what is the check amount?</s>
+what is the total?</s>
+what is the first title in the document?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the sheet no.?</s>
+what is the purchase order no.?</s>
+what is the sheet no.?</s>
+what is the standard form no.?</s>
+what is the total amount?</s>
+what is plotted in this document?</s>
+what is plotted in this document?</s>
+what is the title in the document?</s>
+what is the first title in the document?</s>
+to whom is this letter addressed?</s>
+what is the page number?</s>
+who is the addressee of at the top of the page?</s>
+who is the sender of the document?</s>
+what is the name of the company?</s>
+to whom is this letter addressed to?</s>
+what is the name of the company?</s>
+what is the second title in the document?</s>
+what is the title of the document?</s>
+what is the heading of the table?</s>
+what is the title of the document?</s>
+what is the name of the form?</s>
+what is the date on the document?</s>
+what is the due for the report?</s>
+what is the due for the financial year 31st march, inc.3.3.2010?</s>
+what is the issued date of the report?</s>
+what is the title in the document?</s>
+what is plotted in the x-axis?</s>
+what is the value of sodium in parts per carton?</s>
+what is plotted in the x-axis?</s>
+what is plotted in the x-axis?</s>
+what is the title of the document?</s>
+who is the president?</s>
+who is the chairman?</s>
+what is the table number?</s>
+to whom is this letter addressed?</s>
+what is the table no.?</s>
+what is the first title in the document?</s>
+what is the second title in the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the issued date of invoice?</s>
+what is the name of product?</s>
+what is the date mentioned in the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the employee name?</s>
+what is the first title in the document?</s>
+what is the date mentioned in the invoice?</s>
+what is the name of the person in heart association?</s>
+what is the cash income for 1952 in thousands in 1969?</s>
+what is the document title?</s>
+what is the first title in the document?</s>
+what is the date mentioned in the given page?</s>
+what is the date mentioned in this document?</s>
+what is the company name?</s>
+what is the name?</s>
+in which financial year?</s>
+how many pages are there in the report?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what type of document is this?</s>
+what is the page number?</s>
+what is the tobacco company name?</s>
+who is the moderator?</s>
+what is the page number?</s>
+what is the page number?</s>
+what document is this?</s>
+which company is this?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the title of the document?</s>
+to whom this letter is written?</s>
+who is the chairman?</s>
+what is the heading at top of the page?</s>
+who wrote this letter?</s>
+what is the page number?</s>
+what is the name of the fullform of tobacco company?</s>
+who wrote this document?</s>
+who wrote this document?</s>
+what is the name?</s>
+who wrote this document?</s>
+who wrote this document?</s>
+what is the date on the document?</s>
+what is the name of company?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the value of children in men?</s>
+what is the value of sodium in breakfast?</s>
+what is the table number?</s>
+what is the table number?</s>
+what is the value of current year ended 31st march 2011?</s>
+what is the value of current year ended 31st march 2011?</s>
+what is the name of the company?</s>
+what is the heading of the document?</s>
+what is the first title?</s>
+what is the date mentioned at the top corner of the page?</s>
+what is the name of the financial year at the top of the page?</s>
+what is the first title in the document?</s>
+what is the page number?</s>
+what is the amount for financial year?</s>
+what is the amount due for 31st march 31st march, 1982?</s>
+what is the no. given for 31st march 31st march, 1982?</s>
+what is the amount due for 31st march 31st march, 1982?</s>
+what is the amount for year ended 31st march, 2011?</s>
+what is the name of the university?</s>
+what is the date mentioned in the given page?</s>
+what is the date on the document?</s>
+who is mentioned in the document?</s>
+what is the page no mentioned in this document?</s>
+what is the first title in the document?</s>
+what is the name of the person?</s>
+what is the first title in the document?</s>
+what is the name of department?</s>
+what is the name of the applicant?</s>
+what is heading at top of the page?</s>
+what is the total assets in 2011?</s>
+what is the title of the document?</s>
+what is the value of rjr?</s>
+how much % of how much is shown in 2008?</s>
+what is company name?</s>
+what is the percentage of "cemented" in 2008?</s>
+what is the company name?</s>
+what is the value of johnson & johnson?</s>
+what is the last name?</s>
+what is the payee name mentioned in the form?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the table no.?</s>
+what is the table no.?</s>
+what is the table no.?</s>
+what is the company name?</s>
+what is the value of rjr?</s>
+what is plotted in the document?</s>
+what is the order no.?</s>
+what is the fax number?</s>
+what is the employee number mentioned in the given form?</s>
+what is the date mentioned in the given page?</s>
+what is the name of heart association?</s>
+what is the company name?</s>
+what is the employee number mentioned in the given form?</s>
+how much is the value of shares?</s>
+what is the heading of the document?</s>
+what is the value of johnson & johnson?</s>
+what is the title of the table?</s>
+what is the total budget?</s>
+what is the title of graph?</s>
+what is the total budget?</s>
+what is the title of the document?</s>
+what is the page number at top of the page?</s>
+what is plotted in page?</s>
+what is the date?</s>
+what is the date?</s>
+what is the name?</s>
+what is the page number?</s>
+what is the fullform of rjrt?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the fax number?</s>
+what is the fax number?</s>
+what is the product name?</s>
+what is the "start time"?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the company name?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the percentage of johnson & johnson & johnson company?</s>
+what is the page number?</s>
+heading of the document?</s>
+what is the order no.?</s>
+what is given here?</s>
+what is plotted in the x-axis?</s>
+who wrote this letter?</s>
+what is the title of the document?</s>
+what?</s>
+what is the expiration date?</s>
+what is the document title?</s>
+what is the page number?</s>
+what is the page number?</s>
+what is the account name?</s>
+what is the document title?</s>
+what is the rjr?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+what is the heading given in the first table?</s>
+what is the first title in the table?</s>
+what is the first title in the document?</s>
+by whom is this document?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the fullform of b?</s>
+what is the date mentioned?</s>
+what is the name mentioned in the form?</s>
+which company?</s>
+what is the title of the document?</s>
+what type of document is this?</s>
+which institution is given here?</s>
+what is the company name?</s>
+what is the name of the company?</s>
+what is the company name?</s>
+what is the second title in the document?</s>
+what is the first title in the document?</s>
+who is the author of american heart association?</s>
+who is the author of mrs. darby?</s>
+what type of form is this?</s>
+what type of form is this?</s>
+what is the name?</s>
+what is the telephone number?</s>
+what is the issued date of the document?</s>
+what does y-axis?</s>
+what is the heading of the document?</s>
+what is the product name?</s>
+what is plotted in the graph?</s>
+what is the x-axis?</s>
+what is the rjr brand?</s>
+what is the response code?</s>
+what is the project name?</s>
+what is rjr brand?</s>
+what is the project name?</s>
+what is the page number?</s>
+what is the name?</s>
+what is date mentioned?</s>
+what is the invoice number?</s>
+what is the voucher number?</s>
+what type of voucher is given?</s>
+what is the date?</s>
+what type of documentation is given?</s>
+who is the vice president of bse?</s>
+who is the author of a. louis?</s>
+who is the vice president of john b. louis?</s>
+what is the title of the document?</s>
+what is the full form of darby?</s>
+what is the title of the document?</s>
+what is the date mentioned?</s>
+what is the date mentioned?</s>
+who is the chairman?</s>
+what is the first title in the document?</s>
+what is the designation of dr. h.d.?</s>
+what is the first title in the document?</s>
+when is the lunch?</s>
+what is the fullform of mrs.a?</s>
+what is the name?</s>
+what is the title of the document?</s>
+what is the title of the document?</s>
+to whom is this letter addressed to?</s>
+what is the first title in the document?</s>
+to whom is this letter addressed to?</s>
+what is the date on the document?</s>
+what is the title of the document?</s>
+what is the page number?</s>
+who wrote this document?</s>
+what is the title of the document?</s>
+what is the company name?</s>
+what is the title of the document?</s>
+what is the name of the company?</s>
+what is the page number?</s>
+what is the number?</s>
+what is the page number?</s>
+what is telephone number?</s>
+what is the invoice number?</s>
+what is the value of rjr) mentioned in the given form?</s>
+what is the value of johnson & johnson as mentioned in the given page?</s>
+what is the value of johnson & johnson & johnson & john?</s>
+what is the po box number?</s>
+what is the invoice amount mentioned in the document?</s>
+what is the last name mentioned in the form?</s>
+what is the telephone number?</s>
+what is the title of the document?</s>
+when is the meeting?</s>
+when is the meeting?</s>
+what is the title of the graph?</s>
+what is the title of the table?</s>
+who is the secretary?</s>
+who is the memorandum from?</s>
+who is the memorandum from?</s>
+what is the title of the graph?</s>
+what is the title of the document?</s>
+what is the first title in the document?</s>
+what is the figure number?</s>
